@@ -15,6 +15,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 	<meta http-equiv="content-type" 
 		content="text/html;charset=utf-8" />
 	<link href="stylesheets/reset.css" media="all" rel="stylesheet" type="text/css" />
+	<link href="stylesheets/fonts.css" media="all" rel="stylesheet" type="text/css" />
 	<link href="stylesheets/public.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 
