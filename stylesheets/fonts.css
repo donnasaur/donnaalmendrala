@@ -1,0 +1,118 @@
+.afs-droid-serif { font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif; ;}
+
+.afs-fontin-sans { font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif; font-size: 1.061em;}
+
+.afs-kontrapunkt { font-family: "Kontrapunkt", Rockwell, serif; font-size: 1.153em;}
+
+.afs-droid-sans-mono { font-family: "Droid Sans Mono", Menlo, Courier New, Courier, Mono, monospace; font-size: 1.000em;}
+
+
+@font-face {
+font-family: 'Droid Serif';
+src: url('/fonts/Droid-Serif/DroidSerif-Bold-webfont.eot');
+src: local('☺'), url('/fonts/Droid-Serif/DroidSerif-Bold-webfont.woff') format('woff'), url('/fonts/Droid-Serif/DroidSerif-Bold-webfont.ttf') format('truetype'), url('/fonts/Droid-Serif/DroidSerif-Bold-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 700;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'Droid Serif';
+src: url('/fonts/Droid-Serif/DroidSerif-BoldItalic-webfont.eot');
+src: local('☺'), url('/fonts/Droid-Serif/DroidSerif-BoldItalic-webfont.woff') format('woff'), url('/fonts/Droid-Serif/DroidSerif-BoldItalic-webfont.ttf') format('truetype'), url('/fonts/Droid-Serif/DroidSerif-BoldItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 700;
+font-style: italic;
+}
+
+
+@font-face {
+font-family: 'Droid Serif';
+src: url('/fonts/Droid-Serif/DroidSerif-Italic-webfont.eot');
+src: local('☺'), url('/fonts/Droid-Serif/DroidSerif-Italic-webfont.woff') format('woff'), url('/fonts/Droid-Serif/DroidSerif-Italic-webfont.ttf') format('truetype'), url('/fonts/Droid-Serif/DroidSerif-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 400;
+font-style: italic;
+}
+
+
+@font-face {
+font-family: 'Droid Serif';
+src: url('/fonts/Droid-Serif/DroidSerif-Regular-webfont.eot');
+src: local('☺'), url('/fonts/Droid-Serif/DroidSerif-Regular-webfont.woff') format('woff'), url('/fonts/Droid-Serif/DroidSerif-Regular-webfont.ttf') format('truetype'), url('/fonts/Droid-Serif/DroidSerif-Regular-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 400;
+font-style: normal;
+}
+
+
+
+@font-face {
+font-family: 'Fontin Sans';
+src: url('/fonts/Fontin-Sans/fontin_sans_b_45b-webfont.eot');
+src: local('☺'), url('/fonts/Fontin-Sans/fontin_sans_b_45b-webfont.woff') format('woff'), url('/fonts/Fontin-Sans/fontin_sans_b_45b-webfont.ttf') format('truetype'), url('/fonts/Fontin-Sans/fontin_sans_b_45b-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 700;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'Fontin Sans';
+src: url('/fonts/Fontin-Sans/fontin_sans_bi_45b-webfont.eot');
+src: local('☺'), url('/fonts/Fontin-Sans/fontin_sans_bi_45b-webfont.woff') format('woff'), url('/fonts/Fontin-Sans/fontin_sans_bi_45b-webfont.ttf') format('truetype'), url('/fonts/Fontin-Sans/fontin_sans_bi_45b-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 700;
+font-style: italic;
+}
+
+
+@font-face {
+font-family: 'Fontin Sans';
+src: url('/fonts/Fontin-Sans/fontin_sans_i_45b-webfont.eot');
+src: local('☺'), url('/fonts/Fontin-Sans/fontin_sans_i_45b-webfont.woff') format('woff'), url('/fonts/Fontin-Sans/fontin_sans_i_45b-webfont.ttf') format('truetype'), url('/fonts/Fontin-Sans/fontin_sans_i_45b-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 400;
+font-style: italic;
+}
+
+
+@font-face {
+font-family: 'Fontin Sans';
+src: url('/fonts/Fontin-Sans/fontin_sans_r_45b-webfont.eot');
+src: local('☺'), url('/fonts/Fontin-Sans/fontin_sans_r_45b-webfont.woff') format('woff'), url('/fonts/Fontin-Sans/fontin_sans_r_45b-webfont.ttf') format('truetype'), url('/fonts/Fontin-Sans/fontin_sans_r_45b-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 400;
+font-style: normal;
+}
+
+
+
+@font-face {
+font-family: 'Kontrapunkt';
+src: url('/fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.eot');
+src: local('☺'), url('/fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.woff') format('woff'), url('/fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.ttf') format('truetype'), url('/fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 700;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'Kontrapunkt';
+src: url('/fonts/Kontrapunkt/Kontrapunkt-Light-webfont.eot');
+src: local('☺'), url('/fonts/Kontrapunkt/Kontrapunkt-Light-webfont.woff') format('woff'), url('/fonts/Kontrapunkt/Kontrapunkt-Light-webfont.ttf') format('truetype'), url('/fonts/Kontrapunkt/Kontrapunkt-Light-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 200;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'Kontrapunkt';
+src: url('/fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.eot');
+src: local('☺'), url('/fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.woff') format('woff'), url('/fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.ttf') format('truetype'), url('/fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 200;
+font-style: italic;
+}
+
+
+
+@font-face {
+font-family: 'Droid Sans Mono';
+src: url('/fonts/Droid-Sans-Mono/DroidSansMono-webfont.eot');
+src: local('☺'), url('/fonts/Droid-Sans-Mono/DroidSansMono-webfont.woff') format('woff'), url('/fonts/Droid-Sans-Mono/DroidSansMono-webfont.ttf') format('truetype'), url('/fonts/Droid-Sans-Mono/DroidSansMono-webfont.svg#webfontX4pGz9fc') format('svg');
+font-weight: 400;
+font-style: normal;
+}

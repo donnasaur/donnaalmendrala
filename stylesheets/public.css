@@ -7,32 +7,43 @@ body {
 	font-size: .8em;
 	font-family: Helvetica, Verdana, Arial, sans-serif;
 	color: #ffffff;
-	background: #000000;
+	background-color: #111313;
 	text-align: center;
 	margin: 0; padding: 0; border: 0;
 }
 
 a:link, a:visited {
-	color: #ffffff;
+	color: #97d38b;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #97d38b;
+	color: #A8EB9B;
 	text-decoration: none;	
 }
 
+div {
+
+	display: block;
+	position: relative;		
+}
+
 #header {
+
 	margin-left:auto;
 	margin-right:auto;
 	margin-top: 200px;
+	
 	font-size: 3em;
-	font-family: Helvetica, Verdana, Arial, sans-serif;
+	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 }
 
 #content {
+
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 20px;
-	font-family: Helvetica, Verdana, Arial, sans-serif;
+	
+	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	font-size: 1.5em;	
 }		
