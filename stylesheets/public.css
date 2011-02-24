@@ -12,10 +12,15 @@ body {
 	margin: 0; padding: 0; border: 0;
 }
 
-a:link {color: #deface; text-decoration: none; }
-a:active {color: #929191; text-decoration: none; }
-a:visited {color: #facade; text-decoration: none; }
-a:hover {color: #cecece; text-decoration: none; }
+a:link, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #97d38b;
+	text-decoration: none;	
+}
 
 #header {
 	margin-left:auto;
