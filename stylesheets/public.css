@@ -62,6 +62,11 @@ div {
 	font-size: 1em;	
 }
 
+#aboutPic {
+
+	margin-left: 50px;
+}
+
 .clear {
  
 	clear: both;
