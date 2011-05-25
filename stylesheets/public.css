@@ -63,8 +63,15 @@ div {
 }
 
 div.content #aboutPic {
+	
+	display: block;
+	
+	background: url('../images/dino_pizza.png') no-repeat;
 
-	margin-left: 50px;
+	left: 50px;
+	
+	height: 252px;
+	width: 300px;
 }
 
 .clear {
