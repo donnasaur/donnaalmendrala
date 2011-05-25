@@ -3,48 +3,212 @@ html {
 }
 
 body { 
-	width: 100%; height: 70%; 		
+	width: 100%;		
 	
-	font-size: .8em;
-	color: #ffffff;
-	background-color: #111313;
-	text-align: center;
+	font-size: 14px;
+	color: #2c2e2e;
+	background-color: #b9e5fb;
 	
 	margin: 0; padding: 0; border: 0;
 }
 
-a:link, a:visited {
-	color: #97d38b;
+a, a:visited {
+
+	color: #9b997b;
 	text-decoration: none;
 }
-
-a:hover {
-	color: #A8EB9B;
-	text-decoration: none;	
-}
-
 div {
 
 	display: block;
 	position: relative;		
 }
 
-#header {
-
-	margin-left:auto;
-	margin-right:auto;
-	margin-top: 200px;
+#container {
 	
-	font-size: 3em;
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	display: block;
+	position: relative;
+	
+	margin: 0 auto;
+	
+	width: 865px;
+		
 }
 
-#content {
+#spot {
 
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 20px;
+	height: 626px;
+}
+
+#copyright {
+
+	margin: 0 auto 0 auto;
+	
+	width: 375px;	
+}
+
+.content {
+
+	width: 500px;
+	
+	margin: 30px auto 0 auto;
+	
+	padding: 10px 10px 10px 10px;
+	
+	background: #ffffff;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
 	
 	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
-	font-size: 1.5em;	
-}		
+	font-size: 1em;	
+}
+
+.clear {
+ 
+	clear: both;
+}
+
+.thumb {
+
+	float: left;
+	
+	margin: 10px 10px 10px 10px;
+	
+}
+
+.description {
+
+	padding: 10px 10px 10px 10px;
+}
+
+.aboutText {
+
+	padding: 0 10px 10px 10px;
+}
+
+td {
+
+	padding: 3px;
+}
+
+#navigation ul, #navigation li, #navigation a {
+    
+    display: block;
+    position: relative;
+}
+
+#navigation ul {
+
+	height: 172px;
+	margin: 10px 0 0 115px;
+}
+
+#navigation li {
+
+	position: absolute;
+	
+	z-index: 1;
+}
+
+#navigation a {
+
+	font-size: 0;
+	color: transparent;
+	
+	width: 100%;
+	height: 100%;
+}
+
+#navigation li.main {
+
+	top: 4px;
+	left: 0px;
+	
+	width: 179px;
+	height: 74px;	
+}
+
+#navigation li.main a {
+ 
+    background: url('../images/main.png') no-repeat;
+}
+
+#navigation li.main a:hover {
+
+	background: url('../images/main_hover.png') no-repeat;	
+}
+
+#navigation li.store {
+
+	top: 0px;
+	left: 209px;
+	
+	width: 198px;
+	height: 78px;	
+}
+
+#navigation li.store a {
+ 
+    background: url('../images/store.png') no-repeat;
+}
+
+#navigation li.store a:hover {
+
+	background: url('../images/store_hover.png') no-repeat;	
+}
+
+#navigation li.about {
+
+	top: -3px;
+	left: 420px;
+	
+	width: 220px;
+	height: 80px;	
+}
+
+#navigation li.about a {
+ 
+    background: url('../images/about.png') no-repeat;
+}
+
+#navigation li.about a:hover {
+
+	background: url('../images/about_hover.png') no-repeat;	
+}
+
+#navigation li.blog {
+
+	top: 85px;
+	left: 86px;
+	
+	width: 159px;
+	height: 71px;	
+}
+
+#navigation li.blog a {
+ 
+    background: url('../images/blog.png') no-repeat;
+}
+
+#navigation li.blog a:hover {
+
+	background: url('../images/blog_hover.png') no-repeat;	
+}
+
+#navigation li.portfolio {
+
+	top: 91px;
+	left: 272px;
+	
+	width: 297px;
+	height: 67px;	
+}
+
+#navigation li.portfolio a {
+ 
+    background: url('../images/portfolio.png') no-repeat;
+}
+
+#navigation li.portfolio a:hover {
+
+	background: url('../images/portfolio_hover.png') no-repeat;	
+}
