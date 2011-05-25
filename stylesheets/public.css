@@ -62,7 +62,7 @@ div {
 	font-size: 1em;	
 }
 
-#aboutPic {
+div.content #aboutPic {
 
 	margin-left: 50px;
 }
