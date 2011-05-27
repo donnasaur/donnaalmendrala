@@ -8,7 +8,7 @@
 			</ul>
 		</div>
 		<div id="copyright">
-			<img src="images/copyright.png" alt="All Content Copyright Donna Almendrala 2011" height="42px" width="372px" />
+		</div>
 	</div>
 </body>
 </html>

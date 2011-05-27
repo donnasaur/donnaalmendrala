@@ -10,8 +10,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 
 <?php include('includes/header.php'); ?>
 
-		<div id="spot">	
-			<img src="images/mainspot.png" alt="Welcome to Donna Almendrala's Site" height="626px" width="865px" />    
+		<div id="spot">	   
 	    </div>
 
 <?php include('includes/footer.php'); ?>

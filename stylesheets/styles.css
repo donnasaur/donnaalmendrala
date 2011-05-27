@@ -232,14 +232,22 @@ div {
 
 #spot {
 
+	background: url('../images/sprites.png') 0 -286px no-repeat;
+
 	height: 626px;
+	width: 865px;
+	
+	margin: 0 auto 0 auto;
 }
 
 #copyright {
 
+	background: url('../images/sprites.png') 0 -928px no-repeat;
+
 	margin: 0 auto 0 auto;
 	
-	width: 375px;	
+	height: 42px;
+	width: 432px;	
 }
 
 .content {
@@ -262,7 +270,7 @@ div.content #aboutPic {
 	
 	display: block;
 	
-	background: url('../images/dino_pizza.png') no-repeat;
+	background: url('../images/sprites.png') -724px 0 no-repeat;
 
 	left: 50px;
 	
@@ -337,12 +345,12 @@ td {
 
 #navigation li.main a {
  
-    background: url('../images/nav_menu.png') 0 0 no-repeat;
+    background: url('../images/sprites.png') 0 0 no-repeat;
 }
 
 #navigation li.main a:hover {
 
-	background: url('../images/nav_menu.png') 0 -141px no-repeat;
+	background: url('../images/sprites.png') 0 -141px no-repeat;
 }
 
 #navigation li.store {
@@ -356,12 +364,12 @@ td {
 
 #navigation li.store a {
  
-    background: url('../images/nav_menu.png') -186px 0 no-repeat;
+    background: url('../images/sprites.png') -186px 0 no-repeat;
 }
 
 #navigation li.store a:hover {
 
-	background: url('../images/nav_menu.png') -186px -141px no-repeat;	
+	background: url('../images/sprites.png') -186px -141px no-repeat;	
 }
 
 #navigation li.about {
@@ -375,12 +383,12 @@ td {
 
 #navigation li.about a {
  
-    background: url('../images/nav_menu.png') -388px 0 no-repeat;
+    background: url('../images/sprites.png') -388px 0 no-repeat;
 }
 
 #navigation li.about a:hover {
 
-	background: url('../images/nav_menu.png')-388px -141px no-repeat;	
+	background: url('../images/sprites.png')-388px -141px no-repeat;	
 }
 
 #navigation li.blog {
@@ -394,12 +402,12 @@ td {
 
 #navigation li.blog a {
  
-    background: url('../images/nav_menu.png') -68px -70px no-repeat;
+    background: url('../images/sprites.png') -68px -70px no-repeat;
 }
 
 #navigation li.blog a:hover {
 
-	background: url('../images/nav_menu.png') -68px -211px no-repeat;	
+	background: url('../images/sprites.png') -68px -211px no-repeat;	
 }
 
 #navigation li.portfolio {
@@ -413,10 +421,10 @@ td {
 
 #navigation li.portfolio a {
  
-    background: url('../images/nav_menu.png') -235px -70px no-repeat;
+    background: url('../images/sprites.png') -235px -71px no-repeat;
 }
 
 #navigation li.portfolio a:hover {
 
-	background: url('../images/nav_menu.png') -235px -211px no-repeat;	
+	background: url('../images/sprites.png') -235px -212px no-repeat;	
 }
