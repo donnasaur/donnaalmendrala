@@ -9,8 +9,15 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 */ ?>
 
 <?php include('includes/header.php'); ?>
+			
+		<div id="hatch_spot">
+			
+<?php include('includes/navigation.php'); ?>
 
-		<div id="spot">	   
-	    </div>
+		<div class="content">
+			<h1>Comics</h1>
+			<h1>Illustration</h1>
+			<h1>Design</h1>
+		</div>
 
 <?php include('includes/footer.php'); ?>

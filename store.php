@@ -1,4 +1,8 @@
 <?php include('includes/header.php'); ?>
+			
+		<div id="draw_spot">
+			
+<?php include('includes/navigation.php'); ?>
 
 		<div class="content">	
 			<img class="thumb" src="images/avastthumb.png" alt="AVAST!" height="220px" width="150px" />
