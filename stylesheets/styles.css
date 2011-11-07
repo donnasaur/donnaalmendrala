@@ -226,7 +226,7 @@ div {
 	
 	margin: 0 auto;
 	
-	width: 865px;
+	width: 1024px;
 		
 }
 
@@ -264,6 +264,32 @@ div {
 	
 	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	font-size: 1em;	
+}
+
+div.head_banner #balloon {
+
+	display: block;
+	
+	background: url('../images/sprites.png') -5px -103px no-repeat;
+	
+	left: 531px;
+	top: 23px;
+	
+	width: 289px;
+	height: 92px;
+}
+
+div.head_banner #hatch_spot {
+
+	display: block;
+	
+	background: url('../images/sprites.png') -10px -654px no-repeat;
+	
+	top: -24px;
+	left: 209px;
+	
+	width: 500px;
+	height: 234px;
 }
 
 div.content #aboutPic {
@@ -353,25 +379,6 @@ td {
 	background: url('../images/sprites.png') 0 -141px no-repeat;
 }
 
-#navigation li.store {
-
-	top: 0px;
-	left: 196px;
-	
-	width: 194px;
-	height: 69px;	
-}
-
-#navigation li.store a {
- 
-    background: url('../images/sprites.png') -186px 0 no-repeat;
-}
-
-#navigation li.store a:hover {
-
-	background: url('../images/sprites.png') -186px -141px no-repeat;	
-}
-
 #navigation li.about {
 
 	top: 0px;
@@ -389,6 +396,25 @@ td {
 #navigation li.about a:hover {
 
 	background: url('../images/sprites.png')-388px -141px no-repeat;	
+}
+
+#navigation li.store {
+
+	top: 0px;
+	left: 196px;
+	
+	width: 194px;
+	height: 69px;	
+}
+
+#navigation li.store a {
+ 
+    background: url('../images/sprites.png') -186px 0 no-repeat;
+}
+
+#navigation li.store a:hover {
+
+	background: url('../images/sprites.png') -186px -141px no-repeat;	
 }
 
 #navigation li.blog {
