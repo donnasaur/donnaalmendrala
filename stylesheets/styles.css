@@ -1,3 +1,12 @@
+/*
+All rights reserved for pages and content related to this site.
+
+All code licensed under the Apache 2.0 (see APACHE-LICENSE) and 
+the GNU GPL v3 licenses (see GPL-LICENSE).
+
+Copyright 2011 Donna Almendrala (see AUTHORS)
+*/
+
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -47,7 +56,37 @@ table {
 	border-spacing: 0;
 }
 
-/* font embedding */
+/* Lightbox by Lokesh Dhakar*/
+
+#lightbox{	position: absolute;	left: 0; width: 100%; z-index: 100; text-align: center; line-height: 0;}
+#lightbox img{ width: auto; height: auto;}
+#lightbox a img{ border: none; }
+
+#outerImageContainer{ position: relative; background-color: #fff; width: 250px; height: 250px; margin: 0 auto; }
+#imageContainer{ padding: 10px; }
+
+#loading{ position: absolute; top: 40%; left: 0%; height: 25%; width: 100%; text-align: center; line-height: 0; }
+#hoverNav{ position: absolute; top: 0; left: 0; height: 100%; width: 100%; z-index: 10; }
+#imageContainer>#hoverNav{ left: 0;}
+#hoverNav a{ outline: none;}
+
+#prevLink, #nextLink{ width: 49%; height: 100%; background-image: url(data:image/gif;base64,AAAA); /* Trick IE into showing hover */ display: block; }
+#prevLink { left: 0; float: left;}
+#nextLink { right: 0; float: right;}
+#prevLink:hover, #prevLink:visited:hover { background: url(../images/prevlabel.gif) left 15% no-repeat; }
+#nextLink:hover, #nextLink:visited:hover { background: url(../images/nextlabel.gif) right 15% no-repeat; }
+
+#imageDataContainer{ font: 10px Verdana, Helvetica, sans-serif; background-color: #fff; margin: 0 auto; line-height: 1.4em; overflow: auto; width: 100%	; }
+
+#imageData{	padding:0 10px; color: #666; }
+#imageData #imageDetails{ width: 70%; float: left; text-align: left; }	
+#imageData #caption{ font-weight: bold;	}
+#imageData #numberDisplay{ display: block; clear: left; padding-bottom: 1.0em;	}			
+#imageData #bottomNavClose{ width: 66px; float: right;  padding-bottom: 0.7em; outline: none;}	 	
+
+#overlay{ position: absolute; top: 0; left: 0; z-index: 90; width: 100%; height: 500px; background-color: #000; }
+
+/* font embed */
 
 .afs-droid-serif { font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif; ;}
 
@@ -194,263 +233,187 @@ table {
 
 /* My CSS */
 
-html { 
-	height: 100%; width: 100%;
+html {
+
+	height: 100%;
+	width: 100%;
 }
 
-body { 
-	width: 100%;		
-	
-	font-size: 14px;
-	color: #2c2e2e;
-	background-color: #b9e5fb;
-	
-	margin: 0; padding: 0; border: 0;
-}
-
-a, a:visited {
-
-	color: #9b997b;
-	text-decoration: none;
-}
-div {
+body {
 
 	display: block;
-	position: relative;		
+	position: relative;
+	
+	height: 100%;
+
+	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	font-size: 24px;
+	color: #ffffff;	
+
+	background-color: #111313;
 }
 
-#container {
+a:link, a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #97d38b;
+	text-decoration: none;	
+}
+
+h6 {
+	
+	font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif;
+	font-size: 18px;
+	color: #97d38b;
+	
+	margin: 0 12px 12px 0;
+}
+
+div {
+	
+	display: block;
+	position: relative;
+}
+
+.clear {
+
+	clear: both;
+}
+
+#bodyContainer {
+
+	position: relative;
+	min-height: 100%;
+}
+
+* html #bodyContainer {
+
+	height: 100%;
+}
+
+#header {
+	
+	height: 110px;
+	width: 825px;
+	
+	margin-right: auto;
+	margin-left: auto;
+	-moz-border-radius-bottomleft: 15px;
+	-moz-border-radius-bottomright: 15px;
+	-webkit-border-bottom-left-radius: 15px;
+	-webkit-border-bottom-right-radius: 15px;
+	
+	background-color: #2c2e2e;
+}
+
+green {
+	
+	color: #97d38b;
+}
+
+#header > #title {
+
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#main {
+	
+	width: 825px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#navigation {
+	
+	height: 300px;
+	width: 170px;
+	
+	float: left;
+	
+	background: #2c2e2e url("../images/nav_bg.png") no-repeat;
+	margin: 25px 0 25px 0;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+}
+
+#navigation ul {
+	
+	width: 121px;
+	margin: auto;
+	padding-top: 24px;
+	padding-bottom: 24px;
+}
+
+#content {
+	
+	float: right;
+	
+	margin: 25px 0px 25px 0;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+
+	width: 578px;
+	
+	font-size: 14px;
+	color: #ffffff;
+	
+	background-color: #2c2e2e;
+	padding: 24px;
+}
+
+#content > #selfPic {
+
+	margin: 0 12px 12px 0;
+}
+
+#content > p {
+	
+	clear: both;
+	margin: 0 12px 12px 0;
+}
+
+.thumbnail {
+
+	//background-color: #97d38b;
+	//border: 1px solid #97d38b;
+	float: left;
+	margin-bottom: 12px;
+	margin-right: 4px;
+	//padding: 1px 1px 0 1px;
+}
+
+#footer {
+	
+	clear: both;
 	
 	display: block;
 	position: relative;
 	
-	margin: 0 auto;
+	height: 35px;
+	width: 825px;
 	
-	width: 1024px;
-		
-}
-
-#spot {
-
-	background: url('../images/sprites.png') 0 -286px no-repeat;
-
-	height: 626px;
-	width: 865px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -35px;
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-topright: 15px;
+	-webkit-border-top-left-radius: 15px;
+	-webkit-border-top-right-radius: 15px;
 	
-	margin: 0 auto 0 auto;
-}
-
-#copyright {
-
-	background: url('../images/sprites.png') 0 -928px no-repeat;
-
-	margin: 0 auto 0 auto;
+	background-color: #2c2e2e;
+	text-align: center;
+	color: #ffffff;
 	
-	height: 42px;
-	width: 432px;	
+	font-size: 14px;	
+	line-height: 35px;
 }
 
-.content {
+#overlay {
 
-	width: 500px;
-	
-	margin: 30px auto 0 auto;
-	
-	padding: 10px 10px 10px 10px;
-	
-	background: #ffffff;
-	-moz-border-radius: 15px;
-	-webkit-border-radius: 15px;
-	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
-	font-size: 1em;	
-}
-
-div.head_banner #balloon {
-
-	display: block;
-	
-	background: url('../images/sprites.png') -5px -103px no-repeat;
-	
-	left: 531px;
-	top: 23px;
-	
-	width: 289px;
-	height: 92px;
-}
-
-div.head_banner #hatch_spot {
-
-	display: block;
-	
-	background: url('../images/sprites.png') -10px -654px no-repeat;
-	
-	top: -24px;
-	left: 209px;
-	
-	width: 500px;
-	height: 234px;
-}
-
-div.content #aboutPic {
-	
-	display: block;
-	
-	background: url('../images/sprites.png') -724px 0 no-repeat;
-
-	left: 50px;
-	
-	height: 252px;
-	width: 300px;
-}
-
-.clear {
- 
-	clear: both;
-}
-
-.thumb {
-
-	float: left;
-	
-	margin: 10px 10px 10px 10px;
-	
-}
-
-.description {
-
-	padding: 10px 10px 10px 10px;
-}
-
-.aboutText {
-
-	padding: 0 10px 10px 10px;
-}
-
-td {
-
-	padding: 3px;
-}
-
-#navigation ul, #navigation li, #navigation a {
-    
-    display: block;
-    position: relative;
-}
-
-#navigation ul {
-
-	height: 141px;
-	margin: 10px 0 15px 136px;
-}
-
-#navigation li {
-
-	position: absolute;
-	
-	z-index: 1;
-}
-
-#navigation a {
-
-	font-size: 0;
-	color: transparent;
-	
-	width: 100%;
-	height: 100%;
-}
-
-#navigation li.main {
-
-	top: 0px;
-	left: 0px;
-	
-	width: 175px;
-	height: 68px;	
-}
-
-#navigation li.main a {
- 
-    background: url('../images/sprites.png') 0 0 no-repeat;
-}
-
-#navigation li.main a:hover {
-
-	background: url('../images/sprites.png') 0 -141px no-repeat;
-}
-
-#navigation li.about {
-
-	top: 0px;
-	left: 400px;
-	
-	width: 214px;
-	height: 69px;	
-}
-
-#navigation li.about a {
- 
-    background: url('../images/sprites.png') -388px 0 no-repeat;
-}
-
-#navigation li.about a:hover {
-
-	background: url('../images/sprites.png')-388px -141px no-repeat;	
-}
-
-#navigation li.store {
-
-	top: 0px;
-	left: 196px;
-	
-	width: 194px;
-	height: 69px;	
-}
-
-#navigation li.store a {
- 
-    background: url('../images/sprites.png') -186px 0 no-repeat;
-}
-
-#navigation li.store a:hover {
-
-	background: url('../images/sprites.png') -186px -141px no-repeat;	
-}
-
-#navigation li.blog {
-
-	top: 74px;
-	left: 76px;
-	
-	width: 154px;
-	height: 72px;	
-}
-
-#navigation li.blog a {
- 
-    background: url('../images/sprites.png') -68px -70px no-repeat;
-}
-
-#navigation li.blog a:hover {
-
-	background: url('../images/sprites.png') -68px -211px no-repeat;	
-}
-
-#navigation li.portfolio {
-
-	top: 76px;
-	left: 247px;
-	
-	width: 274px;
-	height: 70px;	
-}
-
-#navigation li.portfolio a {
- 
-    background: url('../images/sprites.png') -235px -71px no-repeat;
-}
-
-#navigation li.portfolio a:hover {
-
-	background: url('../images/sprites.png') -235px -212px no-repeat;	
+	position: fixed;	
 }
