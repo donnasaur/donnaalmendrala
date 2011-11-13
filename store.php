@@ -5,7 +5,7 @@
 <?php include('includes/navigation.php'); ?>
 
 		<div class="content">	
-			<img class="thumb" src="images/avastthumb.png" alt="AVAST!" height="220px" width="150px" />
+			<img class="store_thumb" src="images/avastthumb.png" alt="AVAST!" height="220px" width="150px" />
 			
 			<p class="description">32-page, full color, high seas adventure comic based on Golden Age comics in 1941</p>
 			
@@ -26,7 +26,7 @@
 			
 			<div class="clear"></div>
 			
-			<img class="thumb" src="images/mh_coverscan.png" alt="Monster Handler" height="171px" width="150px" />
+			<img class="store_thumb" src="images/mh_coverscan.png" alt="Monster Handler" height="171px" width="150px" />
 			
 			<p class="description">32 page, color covers, limited edition screen printed vellum jacket</p>
 
