@@ -416,10 +416,6 @@ div.head_banner #background_spot {
 	width: 80px;
 	
 	margin: 0 4px 12px 0;
-	
-	//margin-bottom: 12px;
-	//margin-right: 4px;
-	//padding: 1px 1px 0 1px;
 }
 
 .thumb a {
@@ -559,7 +555,186 @@ td {
 	position: fixed;	
 }
 
-div.thumb.baby_p1 {
+/* Content for Gallery */
+
+div.thumb.baby_p1 a {
+	
+	display: block;
 
 	background: url('../images/sprites.png') 0 -1128px no-repeat;	
+}
+
+div.thumb.baby_p2 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -80px -1128px no-repeat;	
+}
+
+div.thumb.baby_p3 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -160px -1128px no-repeat;	
+}
+
+div.thumb.baby_p4 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -240px -1128px no-repeat;	
+}
+
+div.thumb.showersecrets a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -320px -1128px no-repeat;	
+}
+
+div.thumb.concretes a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -400px -1128px no-repeat;	
+}
+
+div.thumb.submarine_p1 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -480px -1128px no-repeat;	
+}
+
+div.thumb.submarine_p2 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -560px -1128px no-repeat;	
+}
+
+div.thumb.submarine_p3 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -640px -1128px no-repeat;	
+}
+
+div.thumb.submarine_p4 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -720px -1128px no-repeat;	
+}
+
+div.thumb.submarine_p5 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -800px -1128px no-repeat;	
+}
+
+div.thumb.submarine_p6 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -880px -1128px no-repeat;	
+}
+
+div.thumb.troll_gag a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') 0 -1168px no-repeat;	
+}
+
+div.thumb.damonbot a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -80px -1168px no-repeat;	
+}
+
+div.thumb.duckman a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -160px -1168px no-repeat;	
+}
+
+div.thumb.gitcard a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -240px -1168px no-repeat;	
+}
+
+div.thumb.monsterhandler_cover a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -320px -1168px no-repeat;	
+}
+
+div.thumb.strangeromance a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -400px -1168px no-repeat;	
+}
+
+div.thumb.mountaingoats a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -480px -1168px no-repeat;	
+}
+
+div.thumb.screenprint_bio a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -560px -1168px no-repeat;	
+}
+
+div.thumb.bearjordan a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -640px -1168px no-repeat;	
+}
+
+div.thumb.piratehook_1 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -720px -1168px no-repeat;	
+}
+
+div.thumb.piratehook_2 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -800px -1168px no-repeat;	
+}
+
+div.thumb.python1 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -880px -1168px no-repeat;	
+}
+
+div.thumb.python2 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -0px -1208px no-repeat;	
+}
+
+div.thumb.python3 a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -80px -1208px no-repeat;	
 }
