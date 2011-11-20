@@ -40,12 +40,13 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 				</div>
 			<h1>Illustration</h1>
 				<div class="subcontents">
+					<div class="thumb thebeatus_flyer"><a href="images/thebeatus_flyer.png" rel="lightbox[illustration]" title="The Beatus Concert Flyer">The Beatus Concert Flyer</a></div>
 					<div class="thumb troll_gag"><a href="images/troll_gag.png" rel="lightbox[illustration]" title="Old Norse Gag">Troll Gag</a></div>
 					<div class="thumb damonbot"><a href="images/damonbot.png" rel="lightbox[illustration]" title="Damon-Bot Avatar">Damon-Bot Avatar</a></div>
 					<div class="thumb duckman"><a href="images/duckman.png" rel="lightbox[illustration]" title="Duckman Avatar">Duckman Avatar</a></div>
 					<div class="thumb gitcard"><a href="images/gitcard.png" rel="lightbox[illustration]" title="Git Greeting Card">Git Card</a></div>
-					<div class="thumb monsterhandler_cover"><a href="images/monsterhandler_cover.png" rel="lightbox[illustration]" title="Monster Handler Front Cover">Monster Handler</a></div>
 					<div class="clear"></div>
+					<div class="thumb monsterhandler_cover"><a href="images/monsterhandler_cover.png" rel="lightbox[illustration]" title="Monster Handler Front Cover">Monster Handler</a></div>
 					<div class="thumb strangeromance"><a href="images/strangeromance.png" rel="lightbox[illustration]" title="Faux 1970's Romance Cover">Strange Romance</a></div>
 					<div class="thumb mountaingoats"><a href="images/mountaingoats.png" rel="lightbox[illustration]" title="Faux Concert Flyer">Mountain Goats Concert</a></div>
 					<div class="thumb screenprint_bio"><a href="images/screenprint_bio.png" rel="lightbox[illustration]" title="Screenprinted Self-Portrait">Self-Portrait</a></div>

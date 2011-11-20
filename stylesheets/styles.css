@@ -240,7 +240,7 @@ body {
 
 a, a:visited {
 
-	color: #9b997b;
+	color: #196dff;
 	text-decoration: none;
 }
 div {
@@ -430,6 +430,12 @@ div.head_banner #background_spot {
 .description {
 
 	padding: 10px 10px 10px 10px;
+}
+
+.googlecart-add-button {
+
+	left: 170px;
+	margin: 5px 0 0 0;
 }
 
 .aboutText {
@@ -737,4 +743,11 @@ div.thumb.python3 a {
 	display: block;
 
 	background: url('../images/sprites.png') -80px -1208px no-repeat;	
+}
+
+div.thumb.thebeatus_flyer a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -160px -1208px no-repeat;	
 }
