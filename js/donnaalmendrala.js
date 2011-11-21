@@ -33,7 +33,14 @@ $(document).ready(function() {
 
 	/* This is basic - uses default settings */
 	
-	$("a.fancybox_gallery").fancybox();
-	$.fancybox.resize;
-
+	$("a.fancybox_gallery").fancybox({
+		'titlePosition'	:	'over',
+		'onComplete'	:	function() {
+			$("#fancybox-wrap").hover(function() {
+				$("#fancybox-title").show();
+			}, function() {
+				$("#fancybox-title").hide();
+			});
+		}
+	});
 });
