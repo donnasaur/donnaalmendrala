@@ -303,7 +303,7 @@ h2 {
 
 	display: block;
 	
-	//height: 300px;
+	height: 295px;
 
 }
 
@@ -326,9 +326,9 @@ div.head_banner #balloon {
 	position: absolute;
 
 	top: 12px;
-	left: 128px;
+	left: 62px;
 
-	width: 200px;
+	width: 275px;
 
 	-webkit-border-radius: 10px;
 	-moz-border-radius: 10px;
@@ -391,7 +391,7 @@ div.head_banner #background_spot {
 	
 	z-index: -1;
 	
-	top: 174px;
+	top: 120px;
 	left: 49px;
 	
 	width: 926px;
