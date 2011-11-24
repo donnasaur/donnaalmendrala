@@ -299,14 +299,22 @@ h2 {
 	margin: 0 0 0 24px;
 }
 
-#tail {
+.head_banner {
+
+	display: block;
+	
+	//height: 300px;
+
+}
+
+div.head_banner #tail {
 
 	display: block;
 		
-	background: url('../images/sprites.png') -5px -103px no-repeat;
+	background: url('../images/sprites.png') -237px -103px no-repeat;
 	
-	left: 560px;
-	top: 33px;
+	left: 372px;
+	top: 2px;
 	
 	width: 64px;
 	height: 92px;
@@ -317,8 +325,8 @@ div.head_banner #balloon {
 	display: block;
 	position: absolute;
 
-	top: 42px;
-	right: 170px;
+	top: 12px;
+	left: 128px;
 
 	width: 200px;
 
@@ -331,6 +339,7 @@ div.head_banner #balloon {
 	background: white;
 	
 	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	line-height: 14pt;
 	padding: 14px;
 }	
 
@@ -340,7 +349,7 @@ div.head_banner #hatch_spot {
 	
 	background: url('../images/sprites.png') -10px -654px no-repeat;
 	
-	top: -7px;
+	top: -40px;
 	left: 237px;
 	
 	width: 500px;
@@ -353,7 +362,7 @@ div.head_banner #pizza_spot {
 	
 	background: url('../images/sprites.png') -518px -651px no-repeat;
 	
-	top: -7px;
+	top: -40px;
 	left: 385px;
 	
 	width: 350px;
@@ -366,8 +375,8 @@ div.head_banner #draw_spot {
 	
 	background: url('../images/sprites.png') -58px -894px no-repeat;
 	
-	top: -7px;
-	left: 334px;
+	top: -40px;
+	left: 380px;
 	
 	width: 350px;
 	height: 234px;
@@ -553,6 +562,19 @@ td {
 #overlay {
 
 	position: fixed;	
+}
+
+.booktitle {
+
+	display: inline;
+	position: relative;
+	
+	font-style: italic;
+}
+
+.hide {
+
+	display: none;	
 }
 
 /* Content for Gallery */
