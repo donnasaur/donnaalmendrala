@@ -13,6 +13,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 	<link rel="icon" type="image/png" href="images/favicon.png">
 	<title>Donna Almendrala</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="description" content="Donna Almendrala Comics, Illustration, and Design" />
 	<link href="stylesheets/styles.css" media="all" rel="stylesheet" type="text/css" />
 	<link rel="stylesheet" href="stylesheets/jquery.fancybox-1.3.4.css" type="text/css" media="screen" />
 </head>
