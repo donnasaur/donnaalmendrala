@@ -15,21 +15,21 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 <?php include('includes/navigation.php'); ?>
 
 		<div class="content">
-			<h1>Comics</h1>
-				<div class="subcontents">
-					<h2>Baby</h2>
+			<h1 class="expand">Comics</h1>
+				<div class="subcontents collapse">
+					<h2>"Shower Secrets" from Lies Grown Ups Told Me Anthology (2011)</h2>
+						<div class="thumb showersecrets"><a class="fancybox_gallery" href="images/showersecrets.png" rel="ShowerSecrets" title="Shower Secrets from Lies My Parents Told Me anthology, 2011">Shower Secrets</a></div>
+					<div class="clear"></div>
+					<h2>Baby (2011)</h2>
 						<div class="thumb baby_p1"><a class="fancybox_gallery" href="images/baby_p1.png" rel="baby" title="Baby p1">Baby p1</a></div>
 						<div class="thumb baby_p2"><a class="fancybox_gallery" href="images/baby_p2.png" rel="baby" title="Baby p2">Baby p2</a></div>
 						<div class="thumb baby_p3"><a class="fancybox_gallery" href="images/baby_p3.png" rel="baby" title="Baby p3">Baby p3</a></div>
 						<div class="thumb baby_p4"><a class="fancybox_gallery" href="images/baby_p4.png" rel="baby" title="Baby p4">Baby p4</a></div>
 					<div class="clear"></div>
-					<h2>Shower Secrets</h2>
-						<div class="thumb showersecrets"><a class="fancybox_gallery" href="images/showersecrets.png" rel="ShowerSecrets" title="Shower Secrets from Lies My Parents Told Me anthology, 2011">Shower Secrets</a></div>
-					<div class="clear"></div>
-					<h2>The Concretes</h2>
+					<h2>The Concretes from NoisePop 2011 Concert Comic Reviews</h2>
 					<div class="thumb concretes"><a class="fancybox_gallery" href="images/concretes.png" rel="noisepop2011" title="NoisePop 2011 Concert Review: http://2011.noisepop.com/comics/">NoisePop2011</a></div>
 					<div class="clear"></div>
-					<h2>Solstice Submarine</h2>
+					<h2>Solstice Submarine (2010)</h2>
 					<div class="thumb submarine_p1"><a class="fancybox_gallery" href="images/submarine_p1.png" rel="solsticesub" title="Solstice Submarine page1">Solstice Submarine p1</a></div>
 					<div class="thumb submarine_p2"><a class="fancybox_gallery" href="images/submarine_p2.png" rel="solsticesub" title="Solstice Submarine page2">Solstice Submarine p2</a></div>
 					<div class="thumb submarine_p3"><a class="fancybox_gallery"href="images/submarine_p3.png" rel="solsticesub" title="Solstice Submarine page3">Solstice Submarine p3</a></div>
@@ -38,8 +38,8 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 					<div class="thumb submarine_p6"><a class="fancybox_gallery" href="images/submarine_p6.png" rel="solsticesub" title="Solstice Submarine page6">Solstice Submarine p6</a></div>
 					<div class="clear"></div>
 				</div>
-			<h1>Illustration</h1>
-				<div class="subcontents">
+			<h1 class="expand">Illustration</h1>
+				<div class="subcontents collapse" style="display: none; ">
 					<div class="thumb thebeatus_flyer"><a class="fancybox_gallery" href="images/thebeatus_flyer.png" rel="illustration" title="The Beatus Concert Flyer">The Beatus Concert Flyer</a></div>
 					<div class="thumb troll_gag"><a class="fancybox_gallery" href="images/troll_gag.png" rel="illustration" title="Old Norse Gag">Troll Gag</a></div>
 					<div class="thumb damonbot"><a class="fancybox_gallery" href="images/damonbot.png" rel="illustration" title="Damon-Bot Avatar">Damon-Bot Avatar</a></div>
@@ -53,8 +53,8 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 					<div class="thumb bearjordan"><a class="fancybox_gallery" href="images/bearjordan.png" rel="illustration" title="Bear Jordan Desktop Wallpaper">Bear Jordan</a></div>
 					<div class="clear"></div>
 				</div>
-			<h1>Design</h1>
-				<div class="subcontents">
+			<h1 class="expand">Design</h1>
+				<div class="subcontents collapse" style="display: none; ">
 					<h2>Piratehook</h2>
 					<div class="thumb piratehook_1"><a class="fancybox_gallery" href="images/piratehook_1.png" rel="piratehook" title="Static Image for Design of Piratehook.com">Under Construction</a></div>
 					<div class="thumb piratehook_2"><a class="fancybox_gallery" href="images/piratehook_2.png" rel="piratehook" title="Static Image for Design of Piratehook.com/404">404</a></div>

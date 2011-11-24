@@ -26,9 +26,6 @@ $(function() {
 		
 });
 
-// Future learning: jQuery effects!
-// $('.content > h1').toggle(function() { $(this).next().slideUp() }, function() { $(this).next().slideDown(); }).next().hide();
-
 $(document).ready(function() {
 
 	/* This is basic - uses default settings */
@@ -43,4 +40,17 @@ $(document).ready(function() {
 			});
 		}
 	});
+});
+
+// Future learning: jQuery effects!
+$(function() {
+
+	 $('.expand').click(function() {
+        $(this).toggleClass('open').siblings().removeClass('open').end()
+        .next('.collapse').slideToggle().siblings('.collapse:visible').slideUp();
+        return false;
+    });
+	//$('.content > h1').toggle(function() { $(this).next().slideDown() }, function() { $(this).next().slideUp(); });
+	//$('.content > h1').toggle(function() { $(this).next().slideUp() }, function() { $(this).next().slideDown(); }).next().hide();
+	
 });
