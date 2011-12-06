@@ -5,7 +5,7 @@
 <?php include('includes/navigation.php'); ?>
 
 		<div class="content">	
-			<img class="store_thumb" src="images/avastthumb.png" alt="AVAST!" height="220px" width="150px" />
+			<div id="avastthumb"></div>
 			
 			<p class="description">32-page, full color, high seas adventure comic based on Golden Age comics in 1941</p>
 			
@@ -14,7 +14,7 @@
 			<div class="product"><input type="hidden" class="product-title" value="AVAST!"><select class="product-attr-custom"><option value="Domestic" googlecart-set-product-price="6.99" selected="selected">Domestic - $6.99</option><option value="None" googlecart-set-product-price="5.00">None - $5.00</option></select><input type="hidden" class="product-price" value="6.99"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>			
 			<div class="clear"></div>
 			
-			<img class="store_thumb" src="images/mh_coverscan.png" alt="Monster Handler" height="171px" width="150px" />
+			<div id="mhthumb"></div>
 			
 			<p class="description">32 page, color covers, limited edition screen printed vellum jacket</p>
 

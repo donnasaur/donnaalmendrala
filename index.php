@@ -15,7 +15,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 <?php include('includes/navigation.php'); ?>
 
 		<div class="content">
-			<h1 class="expand">Comics</h1>
+			<a href="javascript:void(0);" class="expand"><h1>Comics</h1></a>
 				<div class="subcontents collapse">
 					<h2>"Shower Secrets" from <div class="booktitle">Lies Grown Ups Told Me Anthology (2011)</div></h2>
 						<div class="thumb showersecrets"><a class="fancybox_gallery" href="images/showersecrets.png" rel="ShowerSecrets" title="Shower Secrets from Lies My Parents Told Me anthology, 2011">Shower Secrets</a></div>
@@ -38,7 +38,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 					<div class="thumb submarine_p6"><a class="fancybox_gallery" href="images/submarine_p6.png" rel="solsticesub" title="Solstice Submarine page6">Solstice Submarine p6</a></div>
 					<div class="clear"></div>
 				</div>
-			<h1 class="expand">Illustration</h1>
+			<a href="javascript:void(0);" class="expand"><h1>Illustration</h1></a>
 				<div class="subcontents collapse hide">
 					<div class="thumb thebeatus_flyer"><a class="fancybox_gallery" href="images/thebeatus_flyer.png" rel="illustration" title="The Beatus Concert Flyer">The Beatus Concert Flyer</a></div>
 					<div class="thumb troll_gag"><a class="fancybox_gallery" href="images/troll_gag.png" rel="illustration" title="Old Norse Gag">Troll Gag</a></div>
@@ -53,7 +53,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 					<div class="thumb bearjordan"><a class="fancybox_gallery" href="images/bearjordan.png" rel="illustration" title="Bear Jordan Desktop Wallpaper">Bear Jordan</a></div>
 					<div class="clear"></div>
 				</div>
-			<h1 class="expand">Design</h1>
+			<a href="javascript:void(0);" class="expand"><h1>Design</h1></a>
 				<div class="subcontents collapse hide" style="display: none; ">
 					<h2>Piratehook</h2>
 					<div class="thumb piratehook_1"><a class="fancybox_gallery" href="images/piratehook_1.png" rel="piratehook" title="Static Image for Design of Piratehook.com">Under Construction</a></div>

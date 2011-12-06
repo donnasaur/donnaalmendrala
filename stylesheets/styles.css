@@ -47,153 +47,6 @@ table {
 	border-spacing: 0;
 }
 
-
-
-/* font embedding */
-
-.afs-droid-serif { font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif; ;}
-
-.afs-fontin-sans { font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif; font-size: 1.061em;}
-
-.afs-kontrapunkt { font-family: "Kontrapunkt", Rockwell, serif; font-size: 1.153em;}
-
-.afs-droid-sans-mono { font-family: "Droid Sans Mono", Menlo, Courier New, Courier, Mono, monospace; font-size: 1.000em;}
-
-
-@font-face {
-	
-	font-family: 'Droid Serif';
-	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.eot?') format('eot');
-	src: url('../fonts/DroidSerif/DroidSerif-Bold-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.ttf') format('truetype'), 		url('../fonts/DroidSerif/DroidSerif-Bold-webfont.svg#webfontX4pGz9fc')format('svg');
-	font-weight: 700;
-	font-style: normal;
-}
-
-
-@font-face {
-	
-	font-family: 'Droid Serif';
-	src: url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.eot?') format('eot');
-	src: url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.woff') format('woff'), 
-		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.ttf') format('truetype'), 
-		url('../fonts/DroidSerif/DroidSerif-BoldItalic-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 700;
-	font-style: italic;
-}
-
-@font-face {
-	
-	font-family: 'Droid Serif';
-	src: url('../fonts/DroidSerif/DroidSerif-Italic-webfont.eot?') format('eot');
-	src: url('../fonts/DroidSerif/DroidSerif-Italic-webfont.woff') format('woff'), 
-		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.ttf') format('truetype'), 
-		url('../fonts/DroidSerif/DroidSerif-Italic-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 400;
-	font-style: italic;
-}
-
-@font-face {
-	
-	font-family: 'Droid Serif';
-	src: url('../fonts/DroidSerif/DroidSerif-Regular-webfont.eot?') format('eot');
-	src: url('../fonts/DroidSerif/DroidSerif-Regular-webfont.woff') format('woff'), 		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.ttf') format('truetype'), 
-		url('../fonts/DroidSerif/DroidSerif-Regular-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
-
-@font-face {
-	
-	font-family: 'Fontin Sans';
-	src: url('../fonts/FontinSans/FontinSans-Bold.eot?') format('eot');
-	src: url('../fonts/FontinSans/FontinSans-Bold.woff') format('woff'), 
-		url('../fonts/FontinSans/FontinSans-Bold.ttf') format('truetype'), 
-		url('../fonts/FontinSans/FontinSans-Bold.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 700;
-	font-style: normal;
-}
-
-
-@font-face {
-	
-	font-family: 'Fontin Sans';
-	src: url('../fonts/FontinSans/FontinSans-BoldItalic.eot?') format('eot');
-	src: url('../fonts/FontinSans/FontinSans-BoldItalic.woff') format('woff'), 
-		url('../fonts/FontinSans/FontinSans-BoldItalic.ttf') format('truetype'), 
-		url('../fonts/FontinSans/FontinSans-BoldItalic.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 700;
-	font-style: italic;
-}
-
-
-@font-face {
-	
-	font-family: 'Fontin Sans';
-	src: url('../fonts/FontinSans/FontinSans-Italic.eot?') format('eot');
-	src: url('../fonts/FontinSans/FontinSans-Italic.woff') format('woff'),
-		url('../fonts/FontinSans/FontinSans-Italic.ttf') format('truetype'), 
-		url('../fonts/FontinSans/FontinSans-Italic.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 400;
-	font-style: italic;
-}
-
-
-@font-face {
-	
-	font-family: 'Fontin Sans';
-		src: url('../fonts/FontinSans/FontinSans-Regular.eot?') format('eot');
-		src: url('../fonts/FontinSans/FontinSans-Regular.woff') format('woff'), 
-			url('../fonts/FontinSans/FontinSans-Regular.ttf') format('truetype'), 
-			url('../fonts/FontinSans/FontinSans-Regular.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
-
-
-@font-face {
-	
-	font-family: 'Kontrapunkt';
-	src: url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.eot?') format('eot');
-	src: url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.woff') format('woff'), 		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.ttf') format('truetype'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-Bold-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 700;
-	font-style: normal;
-}
-
-
-@font-face {
-	
-	font-family: 'Kontrapunkt';
-	src: url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.eot?') format('eot');
-	src: url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.woff') format('woff'), 		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.ttf') format('truetype'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-Light-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 200;
-	font-style: normal;
-}
-
-
-@font-face {
-	
-	font-family: 'Kontrapunkt';
-	src: url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.eot?') format('eot');
-	src: url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.woff') format('woff'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.ttf') format('truetype'), 
-		url('../fonts/Kontrapunkt/Kontrapunkt-LightItalic-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 200;
-	font-style: italic;
-}
-
-
-
-@font-face {
-	
-	font-family: 'Droid Sans Mono';
-	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.eot');
-	src: url('../fonts/DroidSansMono/DroidSansMono-webfont.woff') format('woff'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.ttf') format('truetype'), 		url('../fonts/DroidSansMono/DroidSansMono-webfont.svg#webfontX4pGz9fc') format('svg');
-	font-weight: 400;
-	font-style: normal;
-}
-
 /* My CSS */
 
 html { 
@@ -203,7 +56,7 @@ html {
 body { 
 	width: 100%;		
 	
-	font-size: 14px;
+	font-size: 13px;
 	color: #111313;
 	background-color: #b9e5fb;
 	
@@ -223,7 +76,7 @@ div {
 
 h1 {
 	
-	font-family: "Droid Serif", "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif;
+	font-family: "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif;
 	font-size: 24px;
 	color: #196dff;
 	
@@ -232,7 +85,7 @@ h1 {
 
 h2 {
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	font-family: "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	font-size: 18px;
 	color: #111313;
 	
@@ -256,9 +109,9 @@ h2 {
 	margin: 36px auto 0 auto;
 	
 	height: 23px;
-	width: 245px;
+	width: 267px;
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	font-family: "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	font-size: 1em;	
 }
 
@@ -290,7 +143,7 @@ h2 {
 	
 	background: rgba(255, 255, 255, 0.8);
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	font-family: "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	font-size: 1em;	
 }
 
@@ -338,7 +191,7 @@ div.head_banner #balloon {
 	
 	background: white;
 	
-	font-family: "Fontin Sans", "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
+	font-family: "Lucida Grande", "Arial", "Helvetica", "Verdana", "Gill Sans", sans-serif;
 	line-height: 14pt;
 	padding: 14px;
 }	
@@ -347,7 +200,7 @@ div.head_banner #hatch_spot {
 
 	display: block;
 	
-	background: url('../images/sprites.png') -10px -654px no-repeat;
+	background: url('../images/sprites.png') -10px -626px no-repeat;
 	
 	top: -40px;
 	left: 237px;
@@ -360,7 +213,7 @@ div.head_banner #pizza_spot {
 
 	display: block;
 	
-	background: url('../images/sprites.png') -518px -651px no-repeat;
+	background: url('../images/sprites.png') -518px -626px no-repeat;
 	
 	top: -40px;
 	left: 385px;
@@ -373,7 +226,7 @@ div.head_banner #draw_spot {
 
 	display: block;
 	
-	background: url('../images/sprites.png') -58px -894px no-repeat;
+	background: url('../images/sprites.png') -58px -873px no-repeat;
 	
 	top: -40px;
 	left: 380px;
@@ -403,10 +256,25 @@ div.head_banner #background_spot {
 	clear: both;
 }
 
-.store_thumb {
+#avastthumb {
 
 	float: left;
+	background: url('../images/sprites.png') -875px -633px no-repeat;
+	
+	height: 220px;
+	width: 150px;
+	
+	margin: 10px 10px 10px 10px;
+}
 
+#mhthumb {
+
+	float: left;
+	background: url('../images/sprites.png') -875px -853px no-repeat;
+	
+	height: 171px;
+	width: 150px;
+	
 	margin: 10px 10px 10px 10px;
 }
 
@@ -489,7 +357,7 @@ td {
 	left: 0;
 	
 	width: 150px;
-	height: 46px;	
+	height: 48px;	
 }
 
 #navigation li.gallery a {
@@ -508,7 +376,7 @@ td {
 	left: 150px;
 	
 	width: 116px;
-	height: 46px;	
+	height: 48px;	
 }
 
 #navigation li.about a {
@@ -527,7 +395,7 @@ td {
 	left: 266px;
 	
 	width: 114px;
-	height: 46px;	
+	height: 48px;	
 }
 
 #navigation li.store a {
@@ -546,7 +414,7 @@ td {
 	left: 380px;
 	
 	width: 95px;
-	height: 46px;	
+	height: 48px;	
 }
 
 #navigation li.blog a {

@@ -45,7 +45,7 @@ $(document).ready(function() {
 // Future learning: jQuery effects!
 $(function() {
 
-	 $('.expand').click(function() {
+	 $('a.expand').click(function() {
         $(this).toggleClass('open').siblings().removeClass('open').end()
         .next('.collapse').slideToggle().siblings('.collapse:visible').slideUp();
         return false;
