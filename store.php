@@ -9,18 +9,18 @@
 			
 			<p class="description">32-page, full color, high seas adventure comic based on Golden Age comics in 1941</p>
 			
-			<p class="description">Choose shipping method:</p>
+			<p class="description">Price: $5.00</p>
 			
-			<div class="product"><input type="hidden" class="product-title" value="AVAST!"><select class="product-attr-custom"><option value="Domestic" googlecart-set-product-price="6.99" selected="selected">Domestic - $6.99</option><option value="None" googlecart-set-product-price="5.00">None - $5.00</option></select><input type="hidden" class="product-price" value="6.99"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>			
+			<div class="product"><input type="hidden" class="product-title" value="AVAST!"><input type="hidden" class="product-price" value="5.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>			
 			<div class="clear"></div>
 			
 			<div id="mhthumb"></div>
 			
 			<p class="description">32 page, color covers, limited edition screen printed vellum jacket</p>
 
-			<p class="description">Choose shipping method:</p>
+			<p class="description">Price: $4.00</p>
 			
-			<div class="product"><input type="hidden" class="product-title" value="Monster Handler"><select class="product-attr-custom"><option value="Domestic" googlecart-set-product-price="5.99" selected="selected">Domestic - $5.99</option><option value="None" googlecart-set-product-price="4.00">None - $4.00</option></select><input type="hidden" class="product-price" value="5.99"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>			
+			<div class="product"><input type="hidden" class="product-title" value="Monster Handler"><input type="hidden" class="product-price" value="4.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>		
 			<div class="clear"></div>
 			
 	    </div>
