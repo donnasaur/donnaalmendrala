@@ -419,12 +419,12 @@ td {
 
 #navigation li.blog a {
  
-    background: url('../images/sprites.png') -380px 0 no-repeat;
+    background: url('../images/sprites.png') -381px 0 no-repeat;
 }
 
 #navigation li.blog a:hover {
 
-	background: url('../images/sprites.png') -380px -51px no-repeat;	
+	background: url('../images/sprites.png') -381px -51px no-repeat;	
 }
 
 #overlay {
