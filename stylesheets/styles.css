@@ -375,7 +375,7 @@ td {
 	top: 0;
 	left: 150px;
 	
-	width: 116px;
+	width: 118px;
 	height: 48px;	
 }
 
@@ -400,12 +400,12 @@ td {
 
 #navigation li.store a {
  
-    background: url('../images/sprites.png') -266px 0 no-repeat;
+    background: url('../images/sprites.png') -267px 0 no-repeat;
 }
 
 #navigation li.store a:hover {
 
-	background: url('../images/sprites.png') -266px -51px no-repeat;	
+	background: url('../images/sprites.png') -267px -51px no-repeat;	
 }
 
 #navigation li.blog {
