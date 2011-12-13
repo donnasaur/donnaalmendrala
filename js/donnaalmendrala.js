@@ -1,6 +1,6 @@
 
 // Get jQuery to promises us some JSON
-var retrieveStatusUpdates = $.getJSON('https://api.twitter.com/1/statuses/user_timeline.json?screen_name=donnamatata&callback=?');
+var retrieveStatusUpdates = $.getJSON('https://api.twitter.com/1/statuses/user_timeline.json?screen_name=donnamatata&callback=?&include_entities=true');
 
 // Wait for the page to be ready
 $(function() {
@@ -23,34 +23,33 @@ $(function() {
 			container.text("I don't know!");
 		}
 	);
-		
-});
 
-$(document).ready(function() {
-
-	/* This is basic - uses default settings */
-	
 	$("a.fancybox_gallery").fancybox({
-		'titlePosition'	:	'over',
-		'onComplete'	:	function() {
-			$("#fancybox-wrap").hover(function() {
-				$("#fancybox-title").show();
-			}, function() {
-				$("#fancybox-title").hide();
-			});
+		prevEffect	: 'none',
+		nextEffect	: 'none',
+		helpers	: {
+			title	: {
+				type: 'inside'
+			},
+			overlay	: {
+				opacity : 0.8,
+				css : {
+					'background-color' : '#000'
+				}
+			},
+			thumbs	: {
+				width	: 50,
+				height	: 50
+			}
 		}
+		
 	});
-});
 
-// Future learning: jQuery effects!
-$(function() {
 
-	 $('a.expand').click(function() {
+	$('a.expand').click(function() {
         $(this).toggleClass('open').siblings().removeClass('open').end()
         .next('.collapse').slideToggle().siblings('.collapse:visible').slideUp();
         return false;
     });
-	//$('.content > h1').toggle(function() { $(this).next().slideDown() }, function() { $(this).next().slideUp(); });
-	//$('.content > h1').toggle(function() { $(this).next().slideUp() }, function() { $(this).next().slideDown(); }).next().hide();
-	
+
 });
