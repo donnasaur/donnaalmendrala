@@ -1,6 +1,6 @@
 
 // Get jQuery to promises us some JSON
-var retrieveStatusUpdates = $.getJSON('https://api.twitter.com/1/statuses/user_timeline.json?screen_name=donnamatata&callback=?&include_entities=true&exclude_replies=true');
+var retrieveStatusUpdates = $.getJSON('https://api.twitter.com/1/statuses/user_timeline.json?screen_name=donnamatata&callback=?&include_entities=true&exclude_replies=true&include_rts=true');
 
 // Wait for the page to be ready
 $(function() {
