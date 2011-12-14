@@ -55,9 +55,13 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 				</div>
 			<a href="javascript:void(0);" class="expand"><h1>Design</h1></a>
 				<div class="subcontents collapse hide" style="display: none; ">
-					<h2>Piratehook</h2>
+					<h2>Piratehook (static image)</h2>
 					<div class="thumb piratehook_1"><a class="fancybox_gallery" href="images/piratehook_1.png" rel="piratehook" title="Static Image for Design of Piratehook.com">Under Construction</a></div>
 					<div class="thumb piratehook_2"><a class="fancybox_gallery" href="images/piratehook_2.png" rel="piratehook" title="Static Image for Design of Piratehook.com/404">404</a></div>
+					<div class="clear"></div>
+					<h2>Piratehook (flash)</h2>
+					<div class="thumb piratehook_1"><a class="fancybox_gallery" href="flash/underconstruction.swf" rel="piratehook" title="Flash mockup for Design of Piratehook.com">Under Construction</a></div>
+					<div class="thumb piratehook_2"><a class="fancybox_gallery" href="flash/404_vector.swf" rel="piratehook" title="Flash mockup for Design of Piratehook.com/404">404</a></div>
 					<div class="clear"></div>
 					<h2>Python Comics</h2>
 					<div class="thumb python1"><a class="fancybox_gallery" class="fancybox_gallery" href="images/python1.png" rel="pythoncomics" title="Static Image 1 for Design of Pythoncomics.com">Python Comics 1</a></div>
