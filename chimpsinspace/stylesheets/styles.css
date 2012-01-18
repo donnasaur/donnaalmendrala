@@ -102,3 +102,23 @@ div#title {
 	font-size: 44px;
 	color: #fff200;
 }
+
+div#sprite {
+	margin: 0 0 20px 0;
+}
+
+div.class {
+
+	display: block;
+	position: absolute;
+	
+	//z-index: -10;
+	
+	top: 50px;
+	left: 50px;
+	
+	height: 8px;
+	width: 8px;
+	
+	background-color: #cccccc;	
+}
