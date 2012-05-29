@@ -1,4 +1,4 @@
-		<div id="copyright">Copyright &copy; Donna Almendrala, 2012
+		<div id="copyright">All Content is Copyright &copy; Donna Almendrala 2011-2012
 		</div>
 	</div>
 	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
