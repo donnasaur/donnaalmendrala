@@ -15,55 +15,67 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 <?php include('includes/navigation.php'); ?>
 
 		<div class="content">
-			<a href="javascript:void(0);" class="expand"><h1>Comics</h1></a>
+			<a href="javascript:void(0);" class="expand subheader"><h1>Comics</h1></a>
 				<div class="subcontents collapse">
-					<h2>"Shower Secrets" from <div class="booktitle">Lies Grown Ups Told Me Anthology (2011)</div></h2>
-						<div class="thumb showersecrets"><a class="fancybox_gallery" href="images/showersecrets.png" rel="ShowerSecrets" title="Shower Secrets from Lies My Parents Told Me anthology, 2011">Shower Secrets</a></div>
+					
+					<div class="thumb chimpcy"><a class="fancybox_gallery" href="images/chimpcy.png" rel="Chimpcy" title="&quot;Chimpcy&quot; Drawn for the <a href=&quot;http://www.cartoonstudies.org/index.php/2012/05/20/read-the-cartoon-crier-online-today/&quot; target=&quot;_blank&quot; alt=&quot;http://www.cartoonstudies.org/index.php/2012/05/20/read-the-cartoon-crier-online-today/&quot;>Center for Cartoon Studies and National Cartoonists Society: Cartoon Crier</a> (2012)">Chimpcy</a></div>	
+					
+					<div class="thumb ss2"><a class="fancybox_gallery" href="images/ss2_cover_front.png" rel="ss2" title="&quot;Solstice Submarine&quot; (2011) Front Cover">Solstice Submarine II (2011) Front Cover</a></div>
+					<div><a class="fancybox_gallery" href="images/ss2_ink_1.png" rel="ss2" title="&quot;Solstice Submarine&quot; (2011) Page 1"></a></div>
+					<div><a class="fancybox_gallery" href="images/ss2_ink_2.png" rel="ss2" title="&quot;Solstice Submarine&quot; (2011) Page 2"></a></div>
+					<div><a class="fancybox_gallery" href="images/ss2_ink_3.png" rel="ss2" title="&quot;Solstice Submarine&quot; (2011) Page 3"></a></div>
+					<div><a class="fancybox_gallery" href="images/ss2_ink_4.png" rel="ss2" title="&quot;Solstice Submarine&quot; (2011) Page 4"></a></div>
+					<div><a class="fancybox_gallery" href="images/ss2_cover_back.png" rel="ss2" title="&quot;Solstice Submarine&quot; (2011) Back Cover"></a></div>
+					
+					<div class="thumb showersecrets"><a class="fancybox_gallery" href="images/showersecrets.png" rel="ShowerSecrets" title="&quot;Shower Secrets&quot; from the Anthology Lies My Parents Told Me (2011)">Shower Secrets</a></div>
+					
+					<div class="thumb baby"><a class="fancybox_gallery" href="images/baby_p1.png" rel="baby" title="&quot;Baby&quot; (2011) Page 1">Baby Page 1</a></div>
+					<div><a class="fancybox_gallery" href="images/baby_p2.png" rel="baby" title="&quot;Baby&quot; (2011) Page 2"></a></div>
+					<div><a class="fancybox_gallery" href="images/baby_p3.png" rel="baby" title="&quot;Baby&quot; (2011) Page 3"></a></div>
+					<div><a class="fancybox_gallery" href="images/baby_p4.png" rel="baby" title="&quot;Baby&quot; (2011) Page 4"></a></div>
+					
+					<div class="thumb concretes"><a class="fancybox_gallery" href="images/concretes.png" rel="noisepop2011" title="&quot;The Concretes&quot; <a href=&quot;http://2011.noisepop.com/comics/&quot; target=&quot;_blank&quot; alt=&quot;http://2011.noisepop.com/comics/&quot;>NoisePop 2011 Concert Review</a>">NoisePop2011</a></div>
+					
+					<div class="thumb ss1"><a class="fancybox_gallery" href="images/submarine_p1.png" rel="ss1" title="&quot;Solstice Submarine&quot; (2010) Front Cover">Solstice Submarine (2010) Front Cover</a></div>
+					<div><a class="fancybox_gallery" href="images/submarine_p2.png" rel="ss1" title="&quot;Solstice Submarine&quot; (2010) Page 1"></a></div>
+					<div><a class="fancybox_gallery" href="images/submarine_p3.png" rel="ss1" title="&quot;Solstice Submarine&quot; (2010) Page 2"></a></div>
+					<div><a class="fancybox_gallery" href="images/submarine_p4.png" rel="ss1" title="&quot;Solstice Submarine&quot; (2010) Page 3"></a></div>
+					<div><a class="fancybox_gallery" href="images/submarine_p5.png" rel="ss1" title="&quot;Solstice Submarine&quot; (2010) Page 4"></a></div>
+					<div><a class="fancybox_gallery" href="images/submarine_p6.png" rel="ss1" title="&quot;Solstice Submarine&quot; (2010) Back Cover"></a></div>
+	
 					<div class="clear"></div>
-					<h2>"Baby" (2011)</h2>
-						<div class="thumb baby_p1"><a class="fancybox_gallery" href="images/baby_p1.png" rel="baby" title="Baby p1">Baby p1</a></div>
-						<div class="thumb baby_p2"><a class="fancybox_gallery" href="images/baby_p2.png" rel="baby" title="Baby p2">Baby p2</a></div>
-						<div class="thumb baby_p3"><a class="fancybox_gallery" href="images/baby_p3.png" rel="baby" title="Baby p3">Baby p3</a></div>
-						<div class="thumb baby_p4"><a class="fancybox_gallery" href="images/baby_p4.png" rel="baby" title="Baby p4">Baby p4</a></div>
-					<div class="clear"></div>
-					<h2>"The Concretes" from <div class="booktitle">NoisePop 2011 Comics</div></h2>
-					<div class="thumb concretes"><a class="fancybox_gallery" href="images/concretes.png" rel="noisepop2011" title="NoisePop 2011 Concert Review: http://2011.noisepop.com/comics/">NoisePop2011</a></div>
-					<div class="clear"></div>
-					<h2>"Solstice Submarine" (2010)</h2>
-					<div class="thumb submarine_p1"><a class="fancybox_gallery" href="images/submarine_p1.png" rel="solsticesub" title="Solstice Submarine page1">Solstice Submarine p1</a></div>
-					<div class="thumb submarine_p2"><a class="fancybox_gallery" href="images/submarine_p2.png" rel="solsticesub" title="Solstice Submarine page2">Solstice Submarine p2</a></div>
-					<div class="thumb submarine_p3"><a class="fancybox_gallery"href="images/submarine_p3.png" rel="solsticesub" title="Solstice Submarine page3">Solstice Submarine p3</a></div>
-					<div class="thumb submarine_p4"><a class="fancybox_gallery" href="images/submarine_p4.png" rel="solsticesub" title="Solstice Submarine page4">Solstice Submarine p4</a></div>
-					<div class="thumb submarine_p5"><a class="fancybox_gallery" href="images/submarine_p5.png" rel="solsticesub" title="Solstice Submarine page5">Solstice Submarine p5</a></div>
-					<div class="thumb submarine_p6"><a class="fancybox_gallery" href="images/submarine_p6.png" rel="solsticesub" title="Solstice Submarine page6">Solstice Submarine p6</a></div>
-					<div class="clear"></div>
+					
 				</div>
-			<a href="javascript:void(0);" class="expand"><h1>Illustration</h1></a>
+				
+			<a href="javascript:void(0);" class="expand subheader"><h1>Illustration</h1></a>
 				<div class="subcontents collapse hide">
-					<div class="thumb thebeatus_flyer"><a class="fancybox_gallery" href="images/thebeatus_flyer.png" rel="illustration" title="The Beatus Concert Flyer">The Beatus Concert Flyer</a></div>
-					<div class="thumb troll_gag"><a class="fancybox_gallery" href="images/troll_gag.png" rel="illustration" title="Old Norse Gag">Troll Gag</a></div>
-					<div class="thumb damonbot"><a class="fancybox_gallery" href="images/damonbot.png" rel="illustration" title="Damon-Bot Avatar">Damon-Bot Avatar</a></div>
-					<div class="thumb duckman"><a class="fancybox_gallery" href="images/duckman.png" rel="illustration" title="Duckman Avatar">Duckman Avatar</a></div>
-					<div class="thumb gitcard"><a class="fancybox_gallery" href="images/gitcard.png" rel="illustration" title="Git Greeting Card">Git Card</a></div>
+					
+					<div class="thumb jenslek"><a class="fancybox_gallery" href="images/jenslek_graveltoes.png" rel="illustration" title="D&D Character Portrait (2012)">D&D Character Portrait</a></div>
+					<div class="thumb wayfarers"><a class="fancybox_gallery" href="images/wayfarers_ossus.png" rel="illustration" title="Wayfarers of Ossus Guild Banner (2012)">Wayfarers of Ossus Guild Banner</a></div>
+					<div class="thumb macaque"><a class="fancybox_gallery" href="images/macaque_attack.png" rel="illustration" title="Macaque Attack Logo (2012)">Macaque Attack Logo</a></div>
+					<div class="thumb lutescon"><a class="fancybox_gallery" href="images/lutescon_tshirt.png" rel="illustration" title="Silkscreen T-shirt Design with Jason Lutes for LutesCon (2011)">Silkscreen T-shirt Design with Jason Lutes for LutesCon</a></div>
+					<div class="thumb thebeatus"><a class="fancybox_gallery" href="images/thebeatus_flyer.png" rel="illustration" title="The Beatus Concert Flyer (2011)">The Beatus Concert Flyer</a></div>
+					<div class="thumb troll"><a class="fancybox_gallery" href="images/troll_gag.png" rel="illustration" title="Old Norse Gag (2011)">Troll Gag</a></div>
+					<div class="thumb damonbot"><a class="fancybox_gallery" href="images/damonbot.png" rel="illustration" title="Damon-Bot Avatar (2011)">Damon-Bot Avatar</a></div>
+					<div class="thumb gitcard"><a class="fancybox_gallery" href="images/gitcard.png" rel="illustration" title="Git Greeting Card (2011)">Git Card</a></div>
+					<div class="thumb megadonna"><a class="fancybox_gallery" href="images/megadonna.png" rel="illustration" title="Screen-Printed Self-Portrait Mega-Man">Self-Portrait</a></div>
+
 					<div class="clear"></div>
-					<div class="thumb monsterhandler_cover"><a class="fancybox_gallery" href="images/monsterhandler_cover.png" rel="illustration" title="Monster Handler Front Cover">Monster Handler</a></div>
-					<div class="thumb strangeromance"><a class="fancybox_gallery" href="images/strangeromance.png" rel="illustration" title="Faux 1970's Romance Cover">Strange Romance</a></div>
-					<div class="thumb mountaingoats"><a class="fancybox_gallery" href="images/mountaingoats.png" rel="illustration" title="Faux Concert Flyer">Mountain Goats Concert</a></div>
-					<div class="thumb screenprint_bio"><a class="fancybox_gallery" href="images/screenprint_bio.png" rel="illustration" title="Screenprinted Self-Portrait">Self-Portrait</a></div>
-					<div class="thumb bearjordan"><a class="fancybox_gallery" href="images/bearjordan.png" rel="illustration" title="Bear Jordan Desktop Wallpaper">Bear Jordan</a></div>
-					<div class="clear"></div>
+
 				</div>
-			<a href="javascript:void(0);" class="expand"><h1>Animation</h1></a>
+
+			<a href="javascript:void(0);" class="expand subheader"><h1>Animation</h1></a>
+
 				<div class="subcontents collapse hide" style="display: none; ">
-					<h2>Piratehook (Flash)</h2>
-					<div class="thumb piratehook_1"><a class="fancybox_gallery" href="flash/underconstruction.swf" rel="piratehook" title="Flash mockup for Design of Piratehook.com">Under Construction</a></div>
-					<div class="thumb piratehook_2"><a class="fancybox_gallery" href="flash/404_vector.swf" rel="piratehook" title="Flash mockup for Design of Piratehook.com/404">404</a></div>
-					<div><a class="fancybox_gallery" href="images/piratehook_1.png" rel="piratehook" title="Static Image for Design of Piratehook.com"></a></div>
-					<div><a class="fancybox_gallery" href="images/piratehook_2.png" rel="piratehook" title="Static Image for Design of Piratehook.com/404"></a></div>
-					<div class="clear"></div>
-					<h2>ServerDM.net Banner</h2>
-					<div class="thumb serverdm"><a class="fancybox_gallery" href="images/serverdm_64.gif" rel="serverdm" title="8-bit Pixel Art Animation">ServerDM</a></div>
-					<div class="clear"></div>
+	
+					<div class="thumb piratehook1"><a class="fancybox_gallery" href="flash/underconstruction.swf" rel="piratehook1" title="Flash mockup for Design of Piratehook.com (2011)">Under Construction</a></div>
+					<div><a class="fancybox_gallery" href="images/piratehook_1.png" rel="piratehook1" title="Static Image for Design of Piratehook.com (2011)"></a></div>
+					<div class="thumb piratehook2"><a class="fancybox_gallery" href="flash/404_vector.swf" rel="piratehook2" title="Flash mockup for Design of Piratehook.com/404 (2011)">404</a></div>
+					<div><a class="fancybox_gallery" href="images/piratehook_2.png" rel="piratehook2" title="Static Image for Design of Piratehook.com/404 (2011)"></a></div>
+					
+					<div class="thumb serverdm"><a class="fancybox_gallery" href="images/serverdm_64.gif" rel="serverdm" title="8-bit Pixel Art Animation (2012)">ServerDM</a></div>
+	
+				<div class="clear"></div>
 				</div>
 		</div>
 
