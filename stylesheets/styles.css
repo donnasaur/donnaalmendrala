@@ -298,20 +298,6 @@ div.head_banner #background_spot {
 	height: 100%;
 }
 
-.empty {
-	
-	border-top: 6px solid transparent;
-	border-right: 6px solid transparent;
-	border-bottom: 6px solid transparent;
-	border-left: 6px solid transparent;
-	float: left;
-	
-	height: 150px;
-	width: 150px;
-	
-	margin: 12px 0px 12px 20px;
-}
-
 .description {
 	
 	float: right;
@@ -691,9 +677,7 @@ div.thumb.megadonna a {
 	
 	display: block;
 
-	background: url('../images/sprites.png') -300px -1431px no-repeat;
-	
-	margin: 0 auto 0 auto;	
+	background: url('../images/sprites.png') -300px -1431px no-repeat;	
 }
 
 div.thumb.piratehook1 a {
@@ -715,11 +699,4 @@ div.thumb.serverdm a {
 	display: block;
 
 	background: url('../images/sprites.png') -750px -1431px no-repeat;	
-}
-
-div.thumb.selfportrait a {
-	
-	display: block;
-
-	background: url('../images/sprites.png') 0px -1581px no-repeat;	
 }
