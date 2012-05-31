@@ -33,7 +33,7 @@
 				
 			<div class="clear"></div>
 			
-			<div class="title">Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</div>
+			<div class="title">Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</div>
 				
 				<div class="thumbstore cis2thumb"><a class="fancybox_gallery" href="images/cis_2_cover_front.png" rel="cis2_covers" title="Chimps in Space vol. 2 Covers Preview">Chimps in Space vol. 2</a></div>
 				
