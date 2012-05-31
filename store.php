@@ -5,7 +5,7 @@
 <?php include('includes/navigation.php'); ?>
 
 		<div class="content">
-				<div class="title">Chimps in Space vol. 1: Murder Over the Milky Way</div>
+				<div class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
 				<div class="thumbstore cis1thumb"><a class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
 				<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
 				<div class="thumbstore cis1intthumb"><a class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
@@ -33,7 +33,7 @@
 				
 			<div class="clear"></div>
 			
-			<div class="title">Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</div>
+			<div class="title"><h1>Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</h1></div>
 				
 				<div class="thumbstore cis2thumb"><a class="fancybox_gallery" href="images/cis_2_cover_front.png" rel="cis2_covers" title="Chimps in Space vol. 2 Covers Preview">Chimps in Space vol. 2</a></div>
 				
@@ -65,7 +65,7 @@
 
 			<div class="clear"></div>
 
-			<div class="title">Chimps in Space vol. 3: Hell and Back Again</div>
+			<div class="title"><h1>Chimps in Space vol. 3: Hell and Back Again</h1></div>
 				
 				<div class="thumbstore cis3thumb"><a class="fancybox_gallery" href="images/cis_3_cover_front.png" rel="cis3_covers" title="Chimps in Space vol. 3 Covers Preview">Chimps in Space vol. 3</a></div>
 				
@@ -97,7 +97,7 @@
 		
 			<div class="clear"></div>
 			
-			<div class="title">Monster Handler</div>
+			<div class="title"><h1>Monster Handler</h1></div>
 				
 				<div class="thumbstore mhthumb"><a class="fancybox_gallery" href="images/mh_cover_front.png" rel="mh_covers" title="Monster Handler Covers Preview">Monster Handler</a></div>
 				<div><a class="fancybox_gallery" href="images/mh_cover_back.png" rel="mh_covers" title="Monster Handler Covers Preview"></a></div>
@@ -129,7 +129,7 @@
 			</div>
 			<div class="clear"></div>
 			
-			<div class="title">AVAST!</div>
+			<div class="title"><h1>AVAST!</h1></div>
 				
 				<div class="thumbstore avastthumb"><a class="fancybox_gallery" href="images/avast_cover_front.png" rel="avast_covers" title="AVAST! Cover Preview">AVAST!</a></div>
 				
