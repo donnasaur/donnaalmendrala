@@ -12,7 +12,7 @@
 				<div><a class="fancybox_gallery" href="images/cis_1_ink_2.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
 				<div><a class="fancybox_gallery" href="images/cis_1_ink_3.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
 				<div class="description">
-					<p>16-pages, full color covers and B&W interiors, science fiction adventures of four chimps exploring the galaxy.</p>
+					<p>The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
 					<p>Price: $3.00 + shipping </p> 
 				
 					<p>Buy with Google Checkout </p>
@@ -46,7 +46,7 @@
 				<div><a class="fancybox_gallery" href="images/cis_2_ink_3.png" rel="cis2_int" title="Chimps in Space vol. 2 Preview"></a></div>
 				
 				<div class="description">
-					<p>20-pages, full color covers and B&W interiors, science fiction adventures of four chimps exploring the galaxy.</p>
+					<p>The second issue of an ongoing series this time taking place in a distant corner of the galaxy where bandits, gunslingers, and outlaws roam the lands. </p>
 					<p>Price: $3.00 + shipping </p> 
 					<p>Buy with Google Checkout </p>
 				
@@ -78,12 +78,12 @@
 				<div><a class="fancybox_gallery" href="images/cis_3_ink_3.png" rel="cis3_int" title="Chimps in Space vol. 3 Preview"></a></div>
 				
 				<div class="description">
-					<p>24-pages, full color covers and B&W interiors, science fiction adventures of four chimps exploring the galaxy.</p>
+					<p>The third issue in an ongoing series taking place in the depths of the underworld. A fantasy adventure that can be enjoyed by chimps of all ages!</p>
 					<p>Price: $3.00 + shipping </p> 
 					<p>Buy with Google Checkout </p>
 				
 					<div class="product"><input type="hidden" class="product-title" value="Chimps in Space vol. 3"><input type="hidden" class="product-price" value="3.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>
-				
+					
 					<p>Buy with PayPal</p>
 					<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -109,7 +109,7 @@
 				<div><a class="fancybox_gallery" href="images/mh_ink_3.png" rel="mh_int" title="Monster Handler Preview"></a></div>
 
 			<div class="description">
-			<p>32-page, color covers, limited edition screen printed vellum jacket</p>
+			<p>A story about a society that has placed an agency in control of keeping all of the monsters in check. Limited edition screen printed vellum jacket</p>
 			
 			<p>Price: $3.00 + shipping</p>
 			
@@ -117,7 +117,7 @@
 			
 			<div class="product"><input type="hidden" class="product-title" value="Monster Handler"><input type="hidden" class="product-price" value="3.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>
 				
-			<p class="description">Buy with PayPal</p>
+			<p>Buy with PayPal</p>
 			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
@@ -141,7 +141,7 @@
 
 				<div class="description">
 			
-					<p>32-page, full color, high seas adventure comic based on Golden Age comics in 1941</p>
+					<p>Avast, me hearties! A high seas adventure comic based on Golden Age comics in 1941.</p>
 				
 					<p>Price: $5.00 + shipping</p>
 				
