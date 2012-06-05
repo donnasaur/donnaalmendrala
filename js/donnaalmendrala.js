@@ -16,12 +16,43 @@ $(function() {
 			// Then set the text of the container to the latest tweet.
 			var currentStatus = statusUpdates[0];
 			
+			//create updated status variable
+			var linkedStatus;
+			
 			// Change link text to anchor tag text
 			// Define variable with link regexp
 			var linkRe = /http[s]?:\/\/[^\s]*/;
 			
 			// Find text that matches regexp and replace it with anchor tag			
-			var linkedStatus = currentStatus.text.replace(linkRe, '<a href="$&" target="_blank">$&</a>'); 	
+			linkedStatus = currentStatus.text.replace(linkRe, '<a href="$&" target="_blank">$&</a>');
+			
+			console.log("I converted the link!");
+			
+			// Change twittername to anchor tag text
+			// Define variable with link regexp
+			var twitRe = /@[\w]*/;
+			var newTwitRe = /[A-Za-z0-9_]+/;
+			
+			//find twitter username
+			var twitterName = twitRe.exec(currentStatus.text);
+			
+			//convert to string
+			twitterName = twitterName.toString();
+			
+			console.log(twitterName);
+			
+			//match everything but the @
+			var twitterLink = newTwitRe.exec(twitterName);
+			
+			//convert to string
+			twitterLink = twitterLink.toString();
+			
+			console.log(twitterLink);
+
+			//Find text that matches regexp and replace it with anchor tag			
+			linkedStatus = currentStatus.text.replace(twitRe, '<a href=\"http://twitter.com/' + twitterLink + '\" target="_blank">$&</a>'); 	
+			
+			console.log("I made the twitter name turn into a link!");
 			
 			// replace text in the balloon with correct and current Twitter status
 			container.html(linkedStatus);

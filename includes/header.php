@@ -10,7 +10,7 @@ the GNU GPL v3 licenses (see GPL-LICENSE).
 
 Copyright 2011 Donna Almendrala (see AUTHORS)
 -->
-	<link rel="icon" type="image/png" href="images/favicon.png">
+	<link rel="icon" type="image/ico" href="favicon.ico">
 	<title>Donna Almendrala</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="description" content="Donna Almendrala Comics, Illustration, and Design" />
