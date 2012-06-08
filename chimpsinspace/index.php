@@ -17,6 +17,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 	<link href="stylesheets/styles.css" media="all" rel="stylesheet" type="text/css" />
 </head>
 <body>
+	<div id="overlay">
 	<div id="starfield">
 		<div class="star"></div>
 	</div>
@@ -25,6 +26,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
     	<div class="genre">genre</div>
     	<div class="setting">setting</div>
     	<div class="plot">plot</div>
+	</div>
 	</div>
 	<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 	<script type="text/javascript" src="js/cis.js"></script>
