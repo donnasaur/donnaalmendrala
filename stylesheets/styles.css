@@ -721,3 +721,10 @@ div.thumb.selfportrait a {
 
 	background: url('../images/sprites.png') 0px -1581px no-repeat;	
 }
+
+div.thumb.cisbanner a {
+	
+	display: block;
+
+	background: url('../images/sprites.png') -150px -1581px no-repeat;	
+}
