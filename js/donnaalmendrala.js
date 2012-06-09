@@ -26,17 +26,19 @@ $(function() {
 			// Find text that matches regexp and replace it with anchor tag			
 			linkedStatus = currentStatus.text.replace(linkRe, '<a href="$&" target="_blank">$&</a>');
 			
-			console.log("I converted the link!");
+			console.log(linkedStatus);
 			
-			// Change twittername to anchor tag text
-			// Define variable with link regexp
-			var twitRe = /@[\w]*/;
-			// Define variable regexp without @ sign
+			//Change twittername to anchor tag text
+			//Define variable with link regexp
+			var twitRe = /@[\w]*/g;
+			//Define variable regexp without @ sign
 			var newTwitRe = /[\w]+/;
 			
 			//find twitter username
 			var twitterName = twitRe.exec(currentStatus.text);
 			
+			console.log(twitterName);
+				
 			//convert to string
 			twitterName = twitterName.toString();
 			
@@ -51,12 +53,12 @@ $(function() {
 			console.log(twitterLink);
 
 			//Find text that matches regexp and replace it with anchor tag			
-			linkedStatus = currentStatus.text.replace(twitRe, '<a href=\"http://twitter.com/' + twitterLink + '\" target="_blank">$&</a>'); 	
+			linkedStatus = linkedStatus.replace(twitRe, '<a href=\"http://twitter.com/' + twitterLink + '\" target="_blank">$&</a>'); 	
 			
-			console.log("I made the twitter name turn into a link!");
+			console.log(linkedStatus);
 			
 			// replace text in the balloon with correct and current Twitter status
-			container.html(linkedStatus);
+			container.html(linkedStatus);		
 			
 		},
 		function() {
