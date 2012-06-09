@@ -37,25 +37,27 @@ $(function() {
 			//find twitter username
 			var twitterName = twitRe.exec(currentStatus.text);
 			
-			console.log(twitterName);
+			console.log($.isEmptyObject(twitterName));
 				
-			//convert to string
-			twitterName = twitterName.toString();
-			
-			console.log(twitterName);
-			
-			//match everything but the @
-			var twitterLink = newTwitRe.exec(twitterName);
-			
-			//convert to string
-			twitterLink = twitterLink.toString();
-			
-			console.log(twitterLink);
-
-			//Find text that matches regexp and replace it with anchor tag			
-			linkedStatus = linkedStatus.replace(twitRe, '<a href=\"http://twitter.com/' + twitterLink + '\" target="_blank">$&</a>'); 	
-			
-			console.log(linkedStatus);
+			if (!$.isEmptyObject(twitterName)) {
+				//convert to string
+				twitterName = twitterName.toString();
+				
+				console.log(twitterName);
+				
+				//match everything but the @
+				var twitterLink = newTwitRe.exec(twitterName);
+				
+				//convert to string
+				twitterLink = twitterLink.toString();
+				
+				console.log(twitterLink);
+	
+				//Find text that matches regexp and replace it with anchor tag			
+				linkedStatus = linkedStatus.replace(twitRe, '<a href=\"http://twitter.com/' + twitterLink + '\" target="_blank">$&</a>'); 	
+				
+				console.log(linkedStatus);
+			}
 			
 			// replace text in the balloon with correct and current Twitter status
 			container.html(linkedStatus);		
