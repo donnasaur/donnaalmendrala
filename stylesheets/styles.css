@@ -107,7 +107,7 @@ p {
 	
 	margin: 0 auto 0 auto;
 	
-	width: 800px;
+	width: 926px;
 		
 }
 
@@ -173,7 +173,7 @@ div.head_banner #tail {
 		
 	background: url('../images/sprites.png') -237px -103px no-repeat;
 	
-	left: 242px;
+	left: 309px;
 	top: 2px;
 	
 	width: 64px;
@@ -186,7 +186,7 @@ div.head_banner #balloon {
 	position: absolute;
 
 	top: 12px;
-	left: -70px;
+	left: 0px;
 
 	width: 275px;
 
@@ -210,7 +210,7 @@ div.head_banner #hatch_spot {
 	background: url('../images/sprites.png') -10px -626px no-repeat;
 	
 	top: -40px;
-	left: 116px;
+	left: 172px;
 	
 	width: 500px;
 	height: 234px;
@@ -223,7 +223,7 @@ div.head_banner #pizza_spot {
 	background: url('../images/sprites.png') -518px -626px no-repeat;
 	
 	top: -40px;
-	left: 277px;
+	left: 296px;
 	
 	width: 350px;
 	height: 234px;
@@ -236,7 +236,7 @@ div.head_banner #draw_spot {
 	background: url('../images/sprites.png') -58px -873px no-repeat;
 	
 	top: -40px;
-	left: 248px;
+	left: 298px;
 	
 	width: 350px;
 	height: 234px;
@@ -252,7 +252,7 @@ div.head_banner #background_spot {
 	z-index: -1;
 	
 	top: 120px;
-	left: -62px;
+	left: 0;
 	
 	width: 926px;
 	height: 367px;
