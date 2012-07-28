@@ -99,6 +99,12 @@ div {
 	position: relative;		
 }
 
+div#back {
+
+    font-size: 0.8em;
+    padding: 4px 4px;
+}
+
 div#container {
 	width: 511px;
 	margin: 200px auto 0 auto;

@@ -21,8 +21,9 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 	<div id="starfield">
 		<div class="star"></div>
 	</div>
-	<div id="container">	
-		<div id="title"><a href="javascript:void()" class="generate"><div id="sprite"><img src="images/sprite_1.gif"></div><img src="images/cis_title.png" height="38px" width="511px" alt="Chimps in Space" /></a></div>
+    <div id="back"><a href="http://chimpsinspace.donnaalmendrala.name">back to comic</a></div>
+    <div id="container">
+        <div id="title"><a href="javascript:void()" class="generate"><div id="sprite"><img src="images/sprite_1.gif"></div><img src="images/cis_title.png" height="38px" width="511px" alt="Chimps in Space" /></a></div>
     	<div class="genre">genre</div>
     	<div class="setting">setting</div>
     	<div class="plot">plot</div>
