@@ -14,7 +14,7 @@
 				<div><a class="fancybox_gallery" href="images/cis_1_ink_3.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
 				<div class="description">
 					<p itemprop="description">The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
-                <div itemprop="offers" itemtype="http://schema.org/Offer">
+                <div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
                     <p itemprop="price">Price: $3.00 + shipping </p> 
 				</div>
 					<p>Buy with Google Checkout </p>
@@ -50,7 +50,7 @@
 				
 				<div class="description">
 					<p itemprop="description">The second issue of an ongoing series this time taking place in a distant corner of the galaxy where bandits, gunslingers, and outlaws roam the lands. </p>
-                <div itemprop="offers" itemtype="http://schema.org/Offer">
+                <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
                     <p itemprop="price">Price: $3.00 + shipping </p> 
                 </div>
 					<p>Buy with Google Checkout </p>
@@ -84,7 +84,7 @@
 				
 				<div class="description">
 				    <p itemprop="description">The third issue in an ongoing series taking place in the depths of the underworld. A fantasy adventure that can be enjoyed by chimps of all ages!</p>
-                    <div itemprop="offers" itemtype="http://schema.org/Offer">
+                    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
                     <p itemprop="price">Price: $3.00 + shipping </p> 
                     </div>
 					<p>Buy with Google Checkout </p>
@@ -117,7 +117,7 @@
 
 			<div class="description">
 			<p itemprop="description">A story about a society that has placed an agency in control of keeping all of the monsters in check. Limited edition screen printed vellum jacket</p>
-			<div itemprop="offers" itemtype="http://schema.org/Offer">
+			<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 			<p itemprop="price">Price: $3.00 + shipping</p>
 			</div>
 			<p>Buy with Google Checkout</p>
@@ -150,7 +150,7 @@
 				<div class="description">
 			
 					<p itemprop="description">Avast, me hearties! A high seas adventure comic based on Golden Age comics in 1941.</p>
-				    <div itemprop="offers" itemtype="http://schema.org/Offer">
+				    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 					<p itemprop="price">Price: $5.00 + shipping</p>
 			        </div>	
 					<p>Buy with Google Checkout</p>
