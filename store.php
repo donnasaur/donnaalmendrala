@@ -4,16 +4,17 @@
 			
 <?php include('includes/navigation.php'); ?>
 
-		<div class="content">
-				<div class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
-				<div class="thumbstore cis1thumb"><a class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
+        <div class="content">
+            <div itemscope itemtype="http://schema.org/Product">
+				<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
+				<div class="thumbstore cis1thumb"><a itemprop="url" class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
 				<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
-				<div class="thumbstore cis1intthumb"><a class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
+				<div class="thumbstore cis1intthumb"><a itemprop="url" class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
 				<div><a class="fancybox_gallery" href="images/cis_1_ink_2.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
 				<div><a class="fancybox_gallery" href="images/cis_1_ink_3.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
 				<div class="description">
-					<p>The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
-					<p>Price: $3.00 + shipping </p> 
+					<p itemprop="description">The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
+					<p itemprop="price">Price: $3.00 + shipping </p> 
 				
 					<p>Buy with Google Checkout </p>
 					
@@ -30,8 +31,9 @@
 </form>
 
 				</div>
-				
-			<div class="clear"></div>
+			</div>
+
+            <div class="clear"></div>
 			
 			<div class="title"><h1>Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</h1></div>
 				
