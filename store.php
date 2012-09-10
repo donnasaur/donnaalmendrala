@@ -5,7 +5,7 @@
 <?php include('includes/navigation.php'); ?>
 
         <div class="content">
-            <div itemscope itemtype="http://schema.org/Product">
+            <div itemscope itemtype="http://schema.org/Book">
 				<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
 				<div class="thumbstore cis1thumb"><a itemprop="url" class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
 				<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
@@ -14,8 +14,9 @@
 				<div><a class="fancybox_gallery" href="images/cis_1_ink_3.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
 				<div class="description">
 					<p itemprop="description">The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
-					<p itemprop="price">Price: $3.00 + shipping </p> 
-				
+                <div itemprop="offers" itemtype="http://schema.org/Offer">
+                    <p itemprop="price">Price: $3.00 + shipping </p> 
+				</div>
 					<p>Buy with Google Checkout </p>
 					
 					<div class="product"><input type="hidden" class="product-title" value="Chimps in Space vol. 1"><input type="hidden" class="product-price" value="3.00"><div class="googlecart-add-button" tabindex="0" role="button" title="Add to cart"></div></div>
