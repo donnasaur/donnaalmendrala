@@ -51,7 +51,7 @@
 				<div class="description">
 					<p itemprop="description">The second issue of an ongoing series this time taking place in a distant corner of the galaxy where bandits, gunslingers, and outlaws roam the lands. </p>
                 <div itemprop="offers" itemtype="http://schema.org/Offer">
-                    <p itemtype="price">Price: $3.00 + shipping </p> 
+                    <p itemprop="price">Price: $3.00 + shipping </p> 
                 </div>
 					<p>Buy with Google Checkout </p>
 				
@@ -85,7 +85,7 @@
 				<div class="description">
 				    <p itemprop="description">The third issue in an ongoing series taking place in the depths of the underworld. A fantasy adventure that can be enjoyed by chimps of all ages!</p>
                     <div itemprop="offers" itemtype="http://schema.org/Offer">
-                    <p>Price: $3.00 + shipping </p> 
+                    <p itemprop="price">Price: $3.00 + shipping </p> 
                     </div>
 					<p>Buy with Google Checkout </p>
 				
