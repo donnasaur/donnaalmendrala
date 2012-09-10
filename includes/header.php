@@ -20,7 +20,7 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 	<link rel="stylesheet" href="stylesheets/jquery.fancybox-thumbs.css?v=2.0.4" type="text/css" media="screen" />
 </head>
 
-<body>
+<body itemscope itemtype="http://schema.org/WebPage">
 	<div id="container">
 		<div class="head_banner">
 			<div id="tail">

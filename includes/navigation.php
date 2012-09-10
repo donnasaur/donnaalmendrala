@@ -2,7 +2,7 @@
 			<div id="background_spot">
 			</div>
 		</div>
-		<div id="navigation">
+		<div itemprop="breadcrumb" id="navigation">
 			<ul>
 				<li class="gallery"><a target="_self" href="index.php">Gallery</a></li>
 				<li class="about"><a target="_self" href="about.php">About</a></li>
