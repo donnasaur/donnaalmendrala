@@ -9,7 +9,9 @@ Copyright 2011 Donna Almendrala (see AUTHORS)
 */ ?>
 
 <?php include('includes/header.php'); ?>
-			
+	<title>Cartoonist | Designer | Gallery | Donna Almendrala</title>
+<?php include('includes/header_b.php'); ?>
+
 		<div itemprop="primaryImageOfPage" id="hatch_spot">
 			
 <?php include('includes/navigation.php'); ?>

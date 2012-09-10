@@ -1,5 +1,8 @@
 <?php include('includes/header.php'); ?>
-			
+		<title>Cartoonist | Designer | Store | Donna Almendrala</title>
+<?php include('includes/header_b.php'); ?>
+
+		
 		<div id="draw_spot">
 			
 <?php include('includes/navigation.php'); ?>
