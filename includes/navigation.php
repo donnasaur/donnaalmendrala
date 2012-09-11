@@ -7,6 +7,6 @@
 				<li class="gallery"><a target="_self" href="index.php">Gallery</a></li>
 				<li class="about"><a target="_self" href="about.php">About</a></li>
 				<li class="store"><a target="_self" href="store.php">Store</a></li>
-				<li class="blog"><a target="_blank" href="http://blog.donnaalmendrala.name">Blog</a></li>
+				<li class="blog"><a target="_blank" href="http://donnaalmendrala.name/blog">Blog</a></li>
 			</ul>
 		</div>
