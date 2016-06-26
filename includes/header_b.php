@@ -9,8 +9,4 @@
 <body itemscope itemtype="http://schema.org/WebPage">
 	<div id="container">
 		<div class="head_banner">
-			<div id="tail">
-			</div>
-			<div id="balloon">
-			</div>
 
