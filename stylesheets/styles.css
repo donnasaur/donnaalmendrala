@@ -588,6 +588,32 @@ td {
 	background: url('../images/sprites.png') -1245px -600px no-repeat;
 }
 
+.bingobabythumb {
+
+	height: 306px;
+	width: 217px;
+}
+
+.bingobabythumb a {
+
+	display: block;
+
+	background: url('../images/sprites.png') -1470px -559px no-repeat;
+}
+
+.bingobabyintthumb {
+
+	height: 306px;
+	width: 217px;
+}
+
+.bingobabyintthumb a {
+
+	display: block;
+
+	background: url('../images/sprites.png') -1693px -559px no-repeat;
+}
+
 /* Content for Gallery */
 
 div.thumb.chimpcy a {

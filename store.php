@@ -8,30 +8,56 @@
 <?php include('includes/navigation.php'); ?>
 
         <div class="content">
-            <div itemscope itemtype="http://schema.org/Book">
-				<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
-				<div class="thumbstore cis1thumb"><a class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
-				<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
-				<div class="thumbstore cis1intthumb"><a class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
-				<div><a class="fancybox_gallery" href="images/cis_1_ink_2.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
-				<div><a class="fancybox_gallery" href="images/cis_1_ink_3.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
-				<div class="description">
-					<p itemprop="description">The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
-                <div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
-                    <p itemprop="price">Price: $5.00 + shipping </p>
-				</div>
-				<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-						<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="93WXESKYPXMEJ">
-						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-				</form>
 
+							<div itemscope itemtype="http://schema.org/Book">
+										<div itemprop="name" class="title"><h1>Bingo Baby by <a href="http://pennylantern.com" target="_blank">penny lantern</a></h1></div>
+										<div class="thumbstore bingobabythumb"><a class="fancybox_gallery" href="images/bingobaby_cover_1.png" rel="bingobaby_covers" title="Bingo Baby Covers Preview">Bingo Baby</a></div>
+										<div><a class="fancybox_gallery" href="images/bingobaby_cover_2.png" rel="bingobaby_covers" title="Bingo Baby Covers Preview"></a></div>
+										<div class="thumbstore bingobabyintthumb"><a class="fancybox_gallery" href="images/bingobaby_p1.png" rel="bingobaby_int" title="Bingo Baby Preview">Bingo Baby</a></div>
+										<div><a class="fancybox_gallery" href="images/bingobaby_p2.png" rel="bingobaby_int" title="Bingo Baby Preview"></a></div>
+										<div><a class="fancybox_gallery" href="images/bingobaby_p3.png" rel="bingobaby_int" title="Bingo Baby Preview"></a></div>
+										<div><a class="fancybox_gallery" href="images/bingobaby_p4.png" rel="bingobaby_int" title="Bingo Baby Preview"></a></div>
+										<div class="description">
+													<p itemprop="description">The story of five adults (and one baby) in a railroad town, and how their small world spins out of control.</p>
+													<p itemprop="description"> 72-page, full-color comic book, created by Donna Almendrala, Bill Bedard, Joseph Lambert, Amelia Onorato and Denis St. John under the editorial oversight of their former teacher, cartoonist Jason Lutes.</p>
+																<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
+																			<p itemprop="price">Price: $11.95 + shipping </p>
+																</div>
+																<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+																			<input type="hidden" name="cmd" value="_s-xclick">
+																			<input type="hidden" name="hosted_button_id" value="2JBN75MQHKQKJ">
+																			<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+																			<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+																</form>
 
-				</div>
-			</div>
+										</div>
+							</div>
 
-            <div class="clear"></div>
+							<div class="clear"></div>
+
+        		  <div itemscope itemtype="http://schema.org/Book">
+										<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
+										<div class="thumbstore cis1thumb"><a class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
+										<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
+										<div class="thumbstore cis1intthumb"><a class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
+										<div><a class="fancybox_gallery" href="images/cis_1_ink_2.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
+										<div><a class="fancybox_gallery" href="images/cis_1_ink_3.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview"></a></div>
+										<div class="description">
+													<p itemprop="description">The first installment of an ongoing series following the adventures of four chimps exploring the galaxy! This issue is chock-full of science fiction, murder, AND mystery!</p>
+						                    <div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
+						                  				<p itemprop="price">Price: $5.00 + shipping </p>
+																</div>
+													<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+																<input type="hidden" name="cmd" value="_s-xclick">
+																<input type="hidden" name="hosted_button_id" value="93WXESKYPXMEJ">
+																<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+																<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+													</form>
+										</div>
+							</div>
+
+        			<div class="clear"></div>
+
 		<div itemscope itemtype="http://schema.org/Book">
 			<div itemprop="name" class="title"><h1>Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</h1></div>
 
