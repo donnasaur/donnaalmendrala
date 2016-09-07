@@ -460,7 +460,7 @@ td {
 
 .cis1thumb {
 
-	height: 293px;
+	height: 295px;
 	width: 217px;
 }
 
@@ -473,7 +473,7 @@ td {
 
 .cis1intthumb {
 
-	height: 293px;
+	height: 295px;
 	width: 217px;
 }
 
@@ -486,7 +486,7 @@ td {
 
 .cis2thumb {
 
-	height: 293px;
+	height: 295px;
 	width: 217px;
 }
 
@@ -499,7 +499,7 @@ td {
 
 .cis2intthumb {
 
-	height: 293px;
+	height: 295px;
 	width: 217px;
 }
 
@@ -512,7 +512,7 @@ td {
 
 .cis3thumb {
 
-	height: 293px;
+	height: 295px;
 	width: 217px;
 }
 
@@ -525,7 +525,7 @@ td {
 
 .cis3intthumb {
 
-	height: 293px;
+	height: 295px;
 	width: 217px;
 }
 
@@ -538,7 +538,7 @@ td {
 
 .mhthumb {
 
-	height: 250px;
+	height: 253px;
 	width: 217px;
 }
 
@@ -551,7 +551,7 @@ td {
 
 .mhintthumb {
 
-	height: 250px;
+	height: 253px;
 	width: 217px;
 }
 
@@ -564,7 +564,7 @@ td {
 
 .avastthumb {
 
-	height: 315px;
+	height: 318px;
 	width: 217px;
 }
 
@@ -577,7 +577,7 @@ td {
 
 .avastintthumb {
 
-	height: 315px;
+	height: 318px;
 	width: 217px;
 }
 
@@ -598,7 +598,7 @@ td {
 
 	display: block;
 
-	background: url('../images/sprites.png') -1470px -559px no-repeat;
+	background: url('../images/sprites.png') -1470px -560px no-repeat;
 }
 
 .bingobabyintthumb {
@@ -611,7 +611,7 @@ td {
 
 	display: block;
 
-	background: url('../images/sprites.png') -1693px -559px no-repeat;
+	background: url('../images/sprites.png') -1693px -560px no-repeat;
 }
 
 /* Content for Gallery */
