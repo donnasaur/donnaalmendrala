@@ -19,8 +19,8 @@
 										<div><a class="fancybox_gallery" href="images/ss4-ink-3-v2.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
 										<div><a class="fancybox_gallery" href="images/ss4-ink-4.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
 										<div class="description">
-													<p itemprop="description">The lastest zine in the Solstice Sub series brings to you an all new adventure in 3D!</p>
-													<p itemprop="description">Put on your 3D glasses (included) and follow our hero on a journey back to the Cretaceous period.</p>
+													<p itemprop="description">The lastest zine in the Solstice Sub series brings to you an all new adventure in 3D.</p>
+													<p itemprop="description">Put on your 3D glasses (included) and follow our hero on a journey back to the Cretaceous period (dinosaurs)!</p>
 																<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
 																			<p itemprop="price">Price: $5 + shipping </p>
 																</div>
