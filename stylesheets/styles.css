@@ -80,6 +80,7 @@ h1 {
 	font-family: "Georgia", "Times New Roman", "Palatino", "Hoefler Text", "Baskerville", serif;
 	font-size: 22px;
 	color: #196dff;
+	line-height: normal;
 
 	margin: 0 0 12px 0;
 }
@@ -612,6 +613,32 @@ td {
 	display: block;
 
 	background: url('../images/sprites.png') -1693px -560px no-repeat;
+}
+
+.ss4thumb {
+
+	height: 280px;
+	width: 217px;
+}
+
+.ss4thumb a {
+
+	display: block;
+
+	background: url('../images/sprites.png') -1470px -873px no-repeat;
+}
+
+.ss4intthumb {
+
+	height: 280px;
+	width: 217px;
+}
+
+.ss4intthumb a {
+
+	display: block;
+
+	background: url('../images/sprites.png') -1693px -873px no-repeat;
 }
 
 /* Content for Gallery */

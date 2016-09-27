@@ -9,6 +9,34 @@
 
         <div class="content">
 
+
+							<div itemscope itemtype="http://schema.org/Book">
+										<div itemprop="name" class="title"><h1>The Solstice Submarine: 3D</h1></div>
+										<div class="thumbstore ss4thumb"><a class="fancybox_gallery" href="images/ss4_cover-v3.png" rel="ss4_covers" title="The Solstice Submarine: 3D Covers Preview">The Solstice Submarine:3D</a></div>
+										<div><a class="fancybox_gallery" href="images/ss4_back_cover.png" rel="ss4_covers" title="The Solstice Submarine: 3D Covers Preview"></a></div>
+										<div class="thumbstore ss4intthumb"><a class="fancybox_gallery" href="images/ss4-ink-1.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview">The Solstice Submarine: 3D</a></div>
+										<div><a class="fancybox_gallery" href="images/ss4-ink-2.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
+										<div><a class="fancybox_gallery" href="images/ss4-ink-3-v2.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
+										<div><a class="fancybox_gallery" href="images/ss4-ink-4.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
+										<div class="description">
+													<p itemprop="description">The lastest zine in the Solstice Sub series brings to you an all new adventure in 3D!</p>
+													<p itemprop="description">Put on your 3D glasses (included) and follow our hero on a journey back to the Cretaceous period.</p>
+																<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
+																			<p itemprop="price">Price: $5 + shipping </p>
+																</div>
+																<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+																		<input type="hidden" name="cmd" value="_s-xclick">
+																		<input type="hidden" name="hosted_button_id" value="RPVGYEG8EMUZY">
+																		<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+																		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+																</form>
+
+
+										</div>
+							</div>
+
+							<div class="clear"></div>
+
 							<div itemscope itemtype="http://schema.org/Book">
 										<div itemprop="name" class="title"><h1>Bingo Baby by <a href="http://pennylantern.com" target="_blank">penny lantern</a></h1></div>
 										<div class="thumbstore bingobabythumb"><a class="fancybox_gallery" href="images/bingobaby_cover_1.png" rel="bingobaby_covers" title="Bingo Baby Covers Preview">Bingo Baby</a></div>
@@ -36,7 +64,7 @@
 							<div class="clear"></div>
 
         		  <div itemscope itemtype="http://schema.org/Book">
-										<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way</h1></div>
+										<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way (SOLD OUT)</h1></div>
 										<div class="thumbstore cis1thumb"><a class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
 										<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
 										<div class="thumbstore cis1intthumb"><a class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
@@ -47,19 +75,14 @@
 						                    <div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
 						                  				<p itemprop="price">Price: $5.00 + shipping </p>
 																</div>
-													<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-																<input type="hidden" name="cmd" value="_s-xclick">
-																<input type="hidden" name="hosted_button_id" value="93WXESKYPXMEJ">
-																<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-																<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-													</form>
+
 										</div>
 							</div>
 
         			<div class="clear"></div>
 
 		<div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1>Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee</h1></div>
+			<div itemprop="name" class="title"><h1>Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee (SOLD OUT)</h1></div>
 
 				<div class="thumbstore cis2thumb"><a class="fancybox_gallery" href="images/cis_2_cover_front.png" rel="cis2_covers" title="Chimps in Space vol. 2 Covers Preview">Chimps in Space vol. 2</a></div>
 
@@ -77,19 +100,11 @@
                     <p itemprop="price">Price: $5.00 + shipping </p>
                 </div>
 
-			 	<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="NSHAZMB7V72R8">
-					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-			  </form>
-
-
 				</div>
             </div>
 			<div class="clear"></div>
             <div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1>Chimps in Space vol. 3: Hell and Back Again</h1></div>
+			<div itemprop="name" class="title"><h1>Chimps in Space vol. 3: Hell and Back Again (SOLD OUT)</h1></div>
 
 				<div class="thumbstore cis3thumb"><a class="fancybox_gallery" href="images/cis_3_cover_front.png" rel="cis3_covers" title="Chimps in Space vol. 3 Covers Preview">Chimps in Space vol. 3</a></div>
 
@@ -106,14 +121,6 @@
                     <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
                     <p itemprop="price">Price: $5.00 + shipping </p>
                     </div>
-
-				<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-				 		<input type="hidden" name="cmd" value="_s-xclick">
-						<input type="hidden" name="hosted_button_id" value="AQ4TT43SG5JA6">
-						<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-						<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-				</form>
-
 
 				</div>
 		    </div>
