@@ -11,7 +11,7 @@
 
 
 							<div itemscope itemtype="http://schema.org/Book">
-										<div itemprop="name" class="title"><h1>The Solstice Submarine: 3D</h1></div>
+										<div itemprop="name" class="title"><h1 id="the-solstice-submarine-3d">The Solstice Submarine: 3D</h1></div>
 										<div class="thumbstore ss4thumb"><a class="fancybox_gallery" href="images/ss4_cover-v3.png" rel="ss4_covers" title="The Solstice Submarine: 3D Covers Preview">The Solstice Submarine:3D</a></div>
 										<div><a class="fancybox_gallery" href="images/ss4_back_cover.png" rel="ss4_covers" title="The Solstice Submarine: 3D Covers Preview"></a></div>
 										<div class="thumbstore ss4intthumb"><a class="fancybox_gallery" href="images/ss4-ink-1.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview">The Solstice Submarine: 3D</a></div>
@@ -19,8 +19,9 @@
 										<div><a class="fancybox_gallery" href="images/ss4-ink-3-v2.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
 										<div><a class="fancybox_gallery" href="images/ss4-ink-4.png" rel="ss4_int" title="The Solstice Submarine: 3D Preview"></a></div>
 										<div class="description">
-													<p itemprop="description">The lastest zine in the Solstice Sub series brings to you an all new adventure in 3D.</p>
+													<p itemprop="description">The lastest in the Solstice Sub series presents an all new adventure in 3D.</p>
 													<p itemprop="description">Put on your 3D glasses (included) and follow our hero on a journey back to the Cretaceous period (dinosaurs)!</p>
+													<p itemprop="description">16 pages, 4.25 in x 5.5 in</p>
 																<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
 																			<p itemprop="price">Price: $5 + shipping </p>
 																</div>
@@ -38,7 +39,7 @@
 							<div class="clear"></div>
 
 							<div itemscope itemtype="http://schema.org/Book">
-										<div itemprop="name" class="title"><h1>Bingo Baby by <a href="http://pennylantern.com" target="_blank">penny lantern</a></h1></div>
+										<div itemprop="name" class="title"><h1 id="bingo-baby-by-penny-lantern">Bingo Baby by <a href="http://pennylantern.com" target="_blank">penny lantern</a></h1></div>
 										<div class="thumbstore bingobabythumb"><a class="fancybox_gallery" href="images/bingobaby_cover_1.png" rel="bingobaby_covers" title="Bingo Baby Covers Preview">Bingo Baby</a></div>
 										<div><a class="fancybox_gallery" href="images/bingobaby_cover_2.png" rel="bingobaby_covers" title="Bingo Baby Covers Preview"></a></div>
 										<div class="thumbstore bingobabyintthumb"><a class="fancybox_gallery" href="images/bingobaby_p1.png" rel="bingobaby_int" title="Bingo Baby Preview">Bingo Baby</a></div>
@@ -47,7 +48,8 @@
 										<div><a class="fancybox_gallery" href="images/bingobaby_p4.png" rel="bingobaby_int" title="Bingo Baby Preview"></a></div>
 										<div class="description">
 													<p itemprop="description">The story of five adults (and one baby) in a railroad town, and how their small world spins out of control.</p>
-													<p itemprop="description"> 72-page, full-color comic book, created by Donna Almendrala, Bill Bedard, Joseph Lambert, Amelia Onorato and Denis St. John under the editorial oversight of their former teacher, cartoonist Jason Lutes.</p>
+													<p itemprop="description"> Full-color comic, created by Donna Almendrala, Bill Bedard, Joseph Lambert, Amelia Onorato and Denis St. John under the editorial oversight of their former teacher, cartoonist Jason Lutes.</p>
+													<p itemprop="description">72 pages, 6.5 in x 9.25 in</p>
 																<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
 																			<p itemprop="price">Price: $11.95 + shipping </p>
 																</div>
@@ -64,7 +66,7 @@
 							<div class="clear"></div>
 
         		  <div itemscope itemtype="http://schema.org/Book">
-										<div itemprop="name" class="title"><h1>Chimps in Space vol. 1: Murder Over the Milky Way (SOLD OUT)</h1></div>
+										<div itemprop="name" class="title"><h1 id="chimps-in-space-vol-1">Chimps in Space vol. 1: Murder Over the Milky Way (SOLD OUT)</h1></div>
 										<div class="thumbstore cis1thumb"><a class="fancybox_gallery" href="images/cis_1_cover_front.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview">Chimps in Space vol. 1</a></div>
 										<div><a class="fancybox_gallery" href="images/cis_1_cover_back.png" rel="cis1_covers" title="Chimps in Space vol. 1 Covers Preview"></a></div>
 										<div class="thumbstore cis1intthumb"><a class="fancybox_gallery" href="images/cis_1_ink_1.png" rel="cis1_int" title="Chimps in Space vol. 1 Preview">Chimps in Space vol. 1</a></div>
@@ -82,7 +84,7 @@
         			<div class="clear"></div>
 
 		<div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1>Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee (SOLD OUT)</h1></div>
+			<div itemprop="name" class="title"><h1 id="chimps-in-space-vol-2">Chimps in Space vol. 2: The Good, the Bad, and the Chimpanzee (SOLD OUT)</h1></div>
 
 				<div class="thumbstore cis2thumb"><a class="fancybox_gallery" href="images/cis_2_cover_front.png" rel="cis2_covers" title="Chimps in Space vol. 2 Covers Preview">Chimps in Space vol. 2</a></div>
 
@@ -104,7 +106,7 @@
             </div>
 			<div class="clear"></div>
             <div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1>Chimps in Space vol. 3: Hell and Back Again (SOLD OUT)</h1></div>
+			<div itemprop="name" class="title"><h1 id="chimps-in-space-vol-3">Chimps in Space vol. 3: Hell and Back Again (SOLD OUT)</h1></div>
 
 				<div class="thumbstore cis3thumb"><a class="fancybox_gallery" href="images/cis_3_cover_front.png" rel="cis3_covers" title="Chimps in Space vol. 3 Covers Preview">Chimps in Space vol. 3</a></div>
 
@@ -126,7 +128,7 @@
 		    </div>
 			<div class="clear"></div>
 		    <div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1>Monster Handler</h1></div>
+			<div itemprop="name" class="title"><h1 id="monster-handler">Monster Handler</h1></div>
 
 				<div class="thumbstore mhthumb"><a class="fancybox_gallery" href="images/mh_cover_front.png" rel="mh_covers" title="Monster Handler Covers Preview">Monster Handler</a></div>
 				<div><a class="fancybox_gallery" href="images/mh_cover_back.png" rel="mh_covers" title="Monster Handler Covers Preview"></a></div>
@@ -140,6 +142,7 @@
 			<div class="description">
 			<p itemprop="description">LIMITED EDITION Screen printed vellum jacket covers.</p>
 			<p itemprop="description">A story about a society that has placed an agency in control of keeping all of the monsters in check.</p>
+			<p itemprop="description">24 pages, 7 in x 8.5 in</p>
 			<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 			<p itemprop="price">Price: $8.00 + shipping</p>
 			</div>
@@ -155,7 +158,7 @@
         </div>
         <div class="clear"></div>
 		<div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1>AVAST! (SOLD OUT)</h1></div>
+			<div itemprop="name" class="title"><h1 id="avast-title">AVAST! (SOLD OUT)</h1></div>
 
 				<div class="thumbstore avastthumb"><a class="fancybox_gallery" href="images/avast_cover_front.png" rel="avast_covers" title="AVAST! Cover Preview">AVAST!</a></div>
 
