@@ -641,6 +641,32 @@ td {
 	background: url('../images/sprites.png') -1693px -873px no-repeat;
 }
 
+.lrfthumb {
+
+	height: 262px;
+	width: 217px;
+}
+
+.lrfthumb a {
+
+	display: block;
+
+	background: url('../images/sprites.png') -1024px -934px no-repeat;
+}
+
+.lrfintthumb {
+
+	height: 262px;
+	width: 217px;
+}
+
+.lrfintthumb a {
+
+	display: block;
+
+	background: url('../images/sprites.png') -1245px -934px no-repeat;
+}
+
 /* Content for Gallery */
 
 div.thumb.chimpcy a {

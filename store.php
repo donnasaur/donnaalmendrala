@@ -9,6 +9,33 @@
 
         <div class="content">
 
+					<div itemscope itemtype="http://schema.org/Book">
+								<div itemprop="name" class="title"><h1 id="lone-rock-falls-anthology">Lone Rock Falls Anthology</h1></div>
+								<div class="thumbstore lrfthumb"><a class="fancybox_gallery" href="images/lonerockfalls-cover.png" rel="lrf_covers" title="Lone Rock Falls Anthology Cover Preview">Lone Rock Falls Anthology</a></div>
+								<div class="thumbstore lrfintthumb"><a class="fancybox_gallery" href="images/the-relevant-001.png" rel="lrf_int" title="Lone Rock Falls Anthology Preview">Lone Rock Falls Anthology</a></div>
+								<div><a class="fancybox_gallery" href="images/the-relevant-002.png" rel="lrf_int" title="Lone Rock Falls Anthology Preview"></a></div>
+								<div><a class="fancybox_gallery" href="images/the-relevant-003.png" rel="lrf_int" title="Lone Rock Falls Anthology Preview"></a></div>
+								<div><a class="fancybox_gallery" href="images/the-relevant-004.png" rel="lrf_int" title="Lone Rock Falls Anthology Preview"></a></div>
+								<div class="description">
+											<p itemprop="description">A collection of three 24-hour comics taking place in the backdrop of Lone Rock Falls.</p>
+											<p itemprop="description">Stories by <a href="http://brewforbreakfast.com" target="_blank">Nomi Kane</a>, <a href="http://kataclysmix.squarespace.com/" target="_blank">Kat Efird</a> and Donna Almendrala (The Relevant).</p>
+											<p itemprop="description">72 pages, 7 in x 8.5 in</p>
+														<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
+																	<p itemprop="price">Price: $8 + shipping </p>
+														</div>
+														<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+																	<input type="hidden" name="cmd" value="_s-xclick">
+																	<input type="hidden" name="hosted_button_id" value="Q2ZJ44VLFTCTJ">
+																	<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+																	<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+														</form>
+
+
+
+								</div>
+					</div>
+
+					<div class="clear"></div>
 
 							<div itemscope itemtype="http://schema.org/Book">
 										<div itemprop="name" class="title"><h1 id="the-solstice-submarine-3d">The Solstice Submarine: 3D</h1></div>
@@ -63,6 +90,37 @@
 										</div>
 							</div>
 
+							<div class="clear"></div>
+
+							<div itemscope itemtype="http://schema.org/Book">
+						<div itemprop="name" class="title"><h1 id="monster-handler">Monster Handler</h1></div>
+
+							<div class="thumbstore mhthumb"><a class="fancybox_gallery" href="images/mh_cover_front.png" rel="mh_covers" title="Monster Handler Covers Preview">Monster Handler</a></div>
+							<div><a class="fancybox_gallery" href="images/mh_cover_back.png" rel="mh_covers" title="Monster Handler Covers Preview"></a></div>
+
+							<div class="thumbstore mhintthumb"><a class="fancybox_gallery" href="images/mh_ink_1.png" rel="mh_int" title="Monster Handler Preview">Monster Handler</a></div>
+
+							<div><a class="fancybox_gallery" href="images/mh_ink_2.png" rel="mh_int" title="Monster Handler Preview"></a></div>
+
+							<div><a class="fancybox_gallery" href="images/mh_ink_3.png" rel="mh_int" title="Monster Handler Preview"></a></div>
+
+						<div class="description">
+						<p itemprop="description">LIMITED EDITION Screen printed vellum jacket covers.</p>
+						<p itemprop="description">A story about a society that has placed an agency in control of keeping all of the monsters in check.</p>
+						<p itemprop="description">24 pages, 7 in x 8.5 in</p>
+						<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+						<p itemprop="price">Price: $8.00 + shipping</p>
+						</div>
+
+						<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+								<input type="hidden" name="cmd" value="_s-xclick">
+								<input type="hidden" name="hosted_button_id" value="ZVN6C6MNTS85L">
+								<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+								<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+						</form>
+
+						</div>
+							</div>
 							<div class="clear"></div>
 
         		  <div itemscope itemtype="http://schema.org/Book">
@@ -127,36 +185,7 @@
 				</div>
 		    </div>
 			<div class="clear"></div>
-		    <div itemscope itemtype="http://schema.org/Book">
-			<div itemprop="name" class="title"><h1 id="monster-handler">Monster Handler</h1></div>
 
-				<div class="thumbstore mhthumb"><a class="fancybox_gallery" href="images/mh_cover_front.png" rel="mh_covers" title="Monster Handler Covers Preview">Monster Handler</a></div>
-				<div><a class="fancybox_gallery" href="images/mh_cover_back.png" rel="mh_covers" title="Monster Handler Covers Preview"></a></div>
-
-				<div class="thumbstore mhintthumb"><a class="fancybox_gallery" href="images/mh_ink_1.png" rel="mh_int" title="Monster Handler Preview">Monster Handler</a></div>
-
-				<div><a class="fancybox_gallery" href="images/mh_ink_2.png" rel="mh_int" title="Monster Handler Preview"></a></div>
-
-				<div><a class="fancybox_gallery" href="images/mh_ink_3.png" rel="mh_int" title="Monster Handler Preview"></a></div>
-
-			<div class="description">
-			<p itemprop="description">LIMITED EDITION Screen printed vellum jacket covers.</p>
-			<p itemprop="description">A story about a society that has placed an agency in control of keeping all of the monsters in check.</p>
-			<p itemprop="description">24 pages, 7 in x 8.5 in</p>
-			<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-			<p itemprop="price">Price: $8.00 + shipping</p>
-			</div>
-
-			<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="ZVN6C6MNTS85L">
-					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-					<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-			</form>
-
-			</div>
-        </div>
-        <div class="clear"></div>
 		<div itemscope itemtype="http://schema.org/Book">
 			<div itemprop="name" class="title"><h1 id="avast-title">AVAST! (SOLD OUT)</h1></div>
 
