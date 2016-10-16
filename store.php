@@ -75,7 +75,7 @@
 										<div><a class="fancybox_gallery" href="images/bingobaby_p4.png" rel="bingobaby_int" title="Bingo Baby Preview"></a></div>
 										<div class="description">
 													<p itemprop="description">The story of five adults (and one baby) in a railroad town, and how their small world spins out of control.</p>
-													<p itemprop="description"> Full-color comic, created by Donna Almendrala, Bill Bedard, Joseph Lambert, Amelia Onorato and Denis St. John under the editorial oversight of their former teacher, cartoonist Jason Lutes.</p>
+													<p itemprop="description"> Full-color comic, created by Donna Almendrala, <a href="https://www.instagram.com/billage/" target="_blank">Bill Bedard</a>, <a href="http://secretacres.com/?page_id=994" target="_blank">Joseph Lambert</a>, <a href="http://ameliaonorato.com/" target="_blank">Amelia Onorato</a> and <a href="http://www.deniscomix.com/" target="_blank">Denis St. John</a> under the editorial oversight of their former teacher, cartoonist <a href="https://www.drawnandquarterly.com/author/jason-lutes" target="_blank">Jason Lutes</a>.</p>
 													<p itemprop="description">72 pages, 6.5 in x 9.25 in</p>
 																<div itemprop="offers" itemscope  itemtype="http://schema.org/Offer">
 																			<p itemprop="price">Price: $11.95 + shipping </p>
